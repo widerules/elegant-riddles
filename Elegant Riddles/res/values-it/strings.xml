@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Elegant Riddles</string>
+    <string name="title">Elegant Riddles</string>
+    <string name="subtitle">Delizia gli occhi, accende la mente</string>
+    <string name="hint">Type here your answer</string>
+    <string name="btn_back">Indietro</string>
+    <string name="btn_answer">Invia</string>
+    <string name="btn_hints_back">Torna indietro</string>
+    <string name="tableOfContents">Scegli una sfida</string>
+    <string name="credits_title">Info e Credits</string>
+    <string name="credits_text">Elegant Riddles è una collezione di 101 indovinelli e giochi d\'ingegno, presentati con stile ed eleganza.\n\nGli indovinelli non sono disposti per difficoltà crescente, dunque il livello e gli skill richiesti variano molto dall\'uno all\'altro.\nRicorda inoltre che per risolvere alcuni quesiti, potrebbero esserti utili un notes e una calcolatrice.\n\nTutte le immagini utilizzate provengono dall\'archivio \'The Commons\' di Flickr.</string>
+    <string name="credits_mail">Scrivici</string>
+    <string name="credits_adfree_text">La versione gratuita del gioco contiene solo 20 indovinelli.\nPer ottenerli tutti e 101, acquista il gioco completo sul market.</string>
+    <string name="credits_adfree">Compra adesso</string>
+    <string name="credits_mail_text">Per ulteriori info, suggerimenti e richieste, mandateci una mail.</string>
+    <string name="correct_title">Complimenti!</string>
+    <string name="quit">Uscire?</string>
+    <string name="solution">Soluzione</string>
+    <string name="solution_text">La soluzione è:</string>
+    <string name="btn_really_solution">Si, mostrami la soluzione.</string>
+    <string name="text_really_solution">Sei sicuro di voler leggere la soluzione?</string>
+    <string name="really_quit">Sei sicuro di voler uscire da Elegant Riddles?</string>
+    <string name="x">Go ad-free, now!</string>
+    <string name="notepad_hint">Qui puoi prendere appunti</string>
+    <string name="riddleGetAnother">Un\'altra sfida?</string>
+    <string name="riddlenext_btn">&#62;&#62;</string>
+    <string name="riddleprev_btn">&#60;&#60;</string>
+    <string name="riddlerdm_btn">Casuale</string>
+
+    <!-- OPT MENU -->
+    <string name="opt_premium_text">Full Game</string>
+    <string name="opt_back_text">Indietro</string>
+    <string name="opt_rate_text">Vota</string>
+    <string name="opt_home_text">Home</string>
+    <string name="opt_quit_text">Esci</string>
+    <string name="opt_sol_text">Soluzione</string>
+    <string name="opt_toc_text">Indice</string>
+    <string name="opt_vib_text_on">La vibrazione è ON</string>
+    <string name="opt_vib_text_off">La vibrazione è OFF</string>
+
+    <!-- MENU -->
+    <string name="play">Play</string>
+    <string name="play_sub">Scegli una sfida</string>
+    <string name="random">Random</string>
+    <string name="random_sub">Accetta una sfida a caso</string>
+    <string name="credits">Info</string>
+    <string name="credits_sub">Scopri di più</string>
+
+</resources>
