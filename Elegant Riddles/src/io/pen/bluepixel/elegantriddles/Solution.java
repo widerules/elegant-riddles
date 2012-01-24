@@ -8,8 +8,7 @@ import android.view.Menu;
 import android.view.MenuInflater;
 import android.view.MenuItem;
 import android.view.View;
-import android.view.View.OnClickListener;
-import android.widget.Button;
+import android.widget.LinearLayout;
 import android.widget.TextView;
 
 public class Solution extends Activity{
@@ -18,33 +17,37 @@ public class Solution extends Activity{
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.solution);
 		final int lvl = getIntent().getExtras().getInt(Toc.LEVEL_TAG);
-		final TextView solution = (TextView)findViewById(R.id.solutionText);
+		
+		TextView solution = (TextView)findViewById(R.id.solutionText);
+		solution.setText(getResources().getString(Riddle.LOOKUP_ANSWERS[lvl]));
+		
+		String notesFromIntent = getIntent().getExtras().getCharSequence(Riddle.NOTES_TAG).toString();
+		if (!notesFromIntent.equals("")){
+			TextView notes= (TextView)findViewById(R.id.solutionNotepad);
+			notes.setText(notesFromIntent);
+			((LinearLayout)findViewById(R.id.solutionNotesBlock)).setVisibility(View.VISIBLE); 
+		}
 		
 		//Set listeners
-		final Button reallySolButton = (Button) findViewById(R.id.reallySolutionButton);
-		final OnClickListener backListener = new OnClickListener() {
-			public void onClick(View v) {
-				finish();
-			}
-		};
-		reallySolButton.setOnClickListener(new OnClickListener() {
-			public void onClick(View v) {
-				solution.setText(getResources().getString(Riddle.LOOKUP_ANSWERS[lvl]));
-				reallySolButton.setText(getResources().getString(R.string.btn_hints_back));
-				reallySolButton.setOnClickListener(backListener);
-			}
-		});
+//		final Button reallySolButton = (Button) findViewById(R.id.reallySolutionButton);
+//		final OnClickListener backListener = new OnClickListener() {
+//			public void onClick(View v) {
+//				finish();
+//			}
+//		};
+//		reallySolButton.setOnClickListener(new OnClickListener() {
+//			public void onClick(View v) {
+//				solution.setText(getResources().getString(Riddle.LOOKUP_ANSWERS[lvl]));
+//				reallySolButton.setText(getResources().getString(R.string.btn_hints_back));
+//				reallySolButton.setOnClickListener(backListener);
+//			}
+//		});
 		
 		
 	}
 	
 	public void backToRiddle(View v){
 		finish();
-	}
-	
-	public void adFreeClickListener(View v){
-		Intent i = new Intent(Intent.ACTION_VIEW, Uri.parse("market://details?id=io.pen.bluepixel.elegantriddlesdonation"));
-		startActivity(i);
 	}
 	
 	/*

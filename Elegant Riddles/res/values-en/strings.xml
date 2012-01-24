@@ -19,6 +19,7 @@
     <string name="quit">Quit?</string>
     <string name="solution">Solution</string>
     <string name="solution_text">The answer is:</string>
+    <string name="solution_notes">Your notes:</string>
     <string name="btn_really_solution">Yes, show me the solution</string>
     <string name="text_really_solution">Are you sure you want to see the solution?</string>
     <string name="really_quit">Are you sure you want to quit Elegant Riddles?</string>
