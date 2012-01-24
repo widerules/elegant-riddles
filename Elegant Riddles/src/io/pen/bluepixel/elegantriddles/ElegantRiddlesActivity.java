@@ -6,6 +6,7 @@ import android.app.Activity;
 import android.app.AlertDialog;
 import android.content.DialogInterface;
 import android.content.Intent;
+import android.content.SharedPreferences;
 import android.net.Uri;
 import android.os.Bundle;
 import android.view.GestureDetector;
@@ -35,13 +36,15 @@ public class ElegantRiddlesActivity extends Activity implements OnGestureListene
 	private static final int SWIPE_MAX_OFF_PATH = 250;
 	private static final int SWIPE_THRESHOLD_VELOCITY = 200;
 
+	public static final String PREFS_NAME = "EEPrefsFile";
+
 	private int menuPosition = 1;
 	private TextSwitcher mSwitcher;
 
 	@Override
 	public void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
-		setContentView(R.layout.main); 
+		setContentView(R.layout.main);
 		gestureScanner = new GestureDetector(this);	 
 
 		//Text Switcher
