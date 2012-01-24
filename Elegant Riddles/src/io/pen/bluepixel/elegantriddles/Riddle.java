@@ -6,7 +6,6 @@ import android.app.Activity;
 import android.content.Intent;
 import android.net.Uri;
 import android.os.Bundle;
-import android.os.Vibrator;
 import android.view.Menu;
 import android.view.MenuInflater;
 import android.view.MenuItem;
@@ -21,7 +20,8 @@ import android.widget.TextView;
 public class Riddle extends Activity{
 	
 	public static final String PREMIUM_MARKET_URL = "market://details?id=io.pen.bluepixel.elegantriddles";
-
+	public static final String NOTES_TAG = "NOTES";
+	
 	public static final int[] LOOKUP_TITLES = new int[] {	
 		R.string.T01,R.string.T02,R.string.T03,R.string.T04,R.string.T05,
 		R.string.T06,R.string.T07,R.string.T08, R.string.T09, R.string.T10, 
@@ -117,7 +117,6 @@ public class Riddle extends Activity{
 	}; 
 
 	private LinearLayout ll;
-	private Vibrator myVib;
 	private int lvl = 0;
 
 	public void onCreate(Bundle savedInstanceState){
@@ -148,7 +147,6 @@ public class Riddle extends Activity{
 		final Button prevButton = (Button) ll.findViewById(R.id.previousriddle_btn);
 		prevButton.setOnClickListener(new OnClickListener() {
 			public void onClick(View v) {
-				myVib.vibrate(50);
 				lvl--;
 				getIntent().putExtra(Toc.LEVEL_TAG, lvl);
 				setContentView(R.layout.riddle);
@@ -158,7 +156,6 @@ public class Riddle extends Activity{
 		final Button rdmButton = (Button) ll.findViewById(R.id.rdmriddle_btn);
 		rdmButton.setOnClickListener(new OnClickListener() {
 			public void onClick(View v) {
-				myVib.vibrate(50);
 				Random rdmGen = new Random();
 				lvl = rdmGen.nextInt(LOOKUP_TITLES.length);
 				getIntent().putExtra(Toc.LEVEL_TAG, lvl);
@@ -178,6 +175,7 @@ public class Riddle extends Activity{
 	public void showSolution(int lvl) {
 		Intent i = new Intent(Riddle.this, Solution.class);
 		i.putExtra(Toc.LEVEL_TAG, lvl);
+		i.putExtra(NOTES_TAG, ((TextView) findViewById(R.id.riddleNotepad)).getText());
 		Riddle.this.startActivity(i);
 	}
 
@@ -202,7 +200,6 @@ public class Riddle extends Activity{
 	}
 
 	public void backToToc(View v){
-		myVib.vibrate(50);
 		finish();
 	}
 
