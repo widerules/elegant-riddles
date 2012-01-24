@@ -28,7 +28,7 @@
     <string name="riddleGetAnother">Un\'altra sfida?</string>
     <string name="riddlenext_btn">&#62;&#62;</string>
     <string name="riddleprev_btn">&#60;&#60;</string>
-    <string name="riddlerdm_btn">Casuale</string>
+    <string name="riddlerdm_btn">*</string>
 
     <!-- OPT MENU -->
     <string name="opt_premium_text">Full Game</string>
