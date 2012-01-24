@@ -116,33 +116,34 @@
                 android:layout_margin="20dp"
                 android:gravity="center"
                 android:orientation="horizontal" >
-
+
                 <Button
                     android:id="@+id/previousriddle_btn"
-                    style="@style/FontStyle"
+                    style="@style/ButtonStyle"
                     android:layout_width="0dp"
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
                     android:background="@drawable/btnselector"
                     android:text="@string/riddleprev_btn" />
-
+
                 <Button
                     android:id="@+id/rdmriddle_btn"
-                    style="@style/FontStyle"
+                    style="@style/ButtonStyle"
                     android:layout_width="0dp"
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
                     android:background="@drawable/btnselector"
                     android:text="@string/riddlerdm_btn" />
-
+
                 <Button
                     android:id="@+id/nextriddle_btn"
-                    style="@style/FontStyle"
+                    style="@style/ButtonStyle"
                     android:layout_width="0dp"
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
                     android:background="@drawable/btnselector"
                     android:text="@string/riddlenext_btn" />
+
             </LinearLayout>
 
             <LinearLayout
