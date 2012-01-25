@@ -20,7 +20,7 @@
     <string name="A16">There are 4 bees and 3 flowers.</string>
     <string name="A17">None.\nIf I had any cat at all, there would always be two statements true at the same time. Therefore, I have no cats.</string>
     <string name="A18">Four boys and three girls.</string>
-    <string name="A19">The picture was in the silver box.\n\nIf her picture had been in the gold box or in the bronze one, two statements would have been true.\n</string>
+    <string name="A19">The picture was in the silver box.\n\nIf her picture had been in the gold box or in the bronze one, two statements would have been true.</string>
     <string name="A20">324</string>
     <string name="A21">I am 40 and my daughter is 10.</string>
     <string name="A22">The farmer had 1975 seeds.\n\nWhen he formed a square measuring 44 by 44, he had 39 seeds left over.\nWhen he tried to form a square 45 x 45, he was 50 seeds short.</string>
@@ -45,7 +45,7 @@
     <string name="A41">4 minutes.\n\nWhen the Jane tells another person, two people know the message (and 1 minute passed).\nNow two people can tell two other people at the same time the new number, so that four people know the message (and 2 minutes passed).\nNow that four people will tell other four people (and 3 minutes passed).\nThe next minute, everybody will have the new number.</string>
     <string name="A42">The archer shot the arrow into the tree then painted the target around it.</string>
     <string name="A43">To measure half an hour, you could light a stick from both sides: it would completely burn off in 30 minutes\n\nTo measure 45 minutes instead, you could light a stick from both sides and light the other stick from 1 side.\nAfter the first stick completely burns, half an hour has passed. Then you could light the other burning stick from the other side, and it will burn completely in another 15 minutes.</string>
-    <string name="A44">Pour medicine into the 5 and 11 oz. cups until both are full, then pour the remaining 8 oz. in the bottle into the 13 oz. cup.\n Empty both the 5 and 11 oz. cups back into the bottle and transfer the medicine in the 13 oz. cup into the 11 oz. cup.\nPour 13 out of the 16 oz. in the bottle into the 13 oz. cup.\n\nPour 5 oz. of the 13 oz. cup into the 5 oz. cup.\nNow pour the 5 oz. in the 5 oz. cup back into the 24 oz. bottle.\nYou now have 8 oz. in the 24 oz. bottle, the 11 oz. cup, and the 13 oz. cup, while the 5 oz. cup is empty.</string>
+    <string name="A44">Pour medicine into the 5 and 11 oz. cups until both are full, then pour the remaining 8 oz. in the bottle into the 13 oz. cup.\nEmpty both the 5 and 11 oz. cups back into the bottle and transfer the medicine in the 13 oz. cup into the 11 oz. cup.\nPour 13 out of the 16 oz. in the bottle into the 13 oz. cup.\n\nPour 5 oz. of the 13 oz. cup into the 5 oz. cup.\nNow pour the 5 oz. in the 5 oz. cup back into the 24 oz. bottle.\nYou now have 8 oz. in the 24 oz. bottle, the 11 oz. cup, and the 13 oz. cup, while the 5 oz. cup is empty.</string>
     <string name="A45">Throw it up in the air.</string>
     <string name="A46">They are daughter, mother and grandmother.</string>
     <string name="A47">Both 200 pound guys cross the river while the 400 pound guy stays.\nThen one of the 2oo pound guys comes back with the boat and gives it to his 400 pound friend.\nHe gets across the river and gives the boat to the 200 pounds guy waiting on the shore.\nFinally, the two 200 pounds guys cross the river together.</string>
@@ -67,7 +67,7 @@
     <string name="A63">The small donkey is the daughter of the big donkey.</string>
     <string name="A64">0 birds and 86 cows.\n\nEach Cow has 2 eyes and 4 legs and each bird has 2 eyes and 2 legs.\nLets call each eye as x and each leg as y, also each bird is n and each cow is m so:\n\n\nn(2x+2y) + m(2x + 4y) = 172x + 344y\nSolving the equation we have n = 0.</string>
     <string name="A65">Three.\nTwo of them will surely be of the same color.</string>
-    <string name="A66">15.\n\nIn fact:\n105 - x = y\nand\n13x = 105 + y\n</string>
+    <string name="A66">15.\n\nIn fact:\n105 - x = y\nand\n13x = 105 + y</string>
     <string name="A67">When they meet, they need to be both at the same distance away from London.</string>
     <string name="A68">10 Km.</string>
     <string name="A69">4 hours 43 minutes and 17 seconds.\n\nIn an hour, each tap fills 1/48, 1/72, 1/96 and 1/6.\n\nSo, in one hour the pool will be 61/288 full and it will be completely full in 288/61 hours, i.e. 4 hours 43 minutes and 17 seconds.</string>
