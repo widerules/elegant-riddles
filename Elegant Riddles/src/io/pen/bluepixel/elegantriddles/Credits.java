@@ -29,7 +29,7 @@ public class Credits extends Activity{
 				emailIntent.setType("plain/text");
 				emailIntent.putExtra(android.content.Intent.EXTRA_EMAIL, new String[]{MAIL_ADDRESS});
 				emailIntent.putExtra(android.content.Intent.EXTRA_SUBJECT, MAIL_SUBJ);
-				startActivity(Intent.createChooser(emailIntent, getResources().getString(R.id.credits_btn_mail)));
+				startActivity(Intent.createChooser(emailIntent, getResources().getString(R.string.credits_mail)));
 			}
 		});
 
