@@ -48,5 +48,7 @@
     <string name="random_sub">Pick a random riddle</string>
     <string name="credits">More</string>
     <string name="credits_sub">Find out more</string>
+    <string name="ftw">Discover FTW</string>
+    <string name="ftw_sub">Try a new game for free</string>
 
 </resources>
