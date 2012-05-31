@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <!-- ANSWERS -->
+    <!-- ANSWERS --> 
     <string name="A01">La femmina avrà 44 bastoncini, il maschio 66.</string>
-    <string name="A02">387420489\n(9 elevato alla 9)</string>
+    <string name="A02">387420489\n(9 elevato alla 9)\n\n[Soluzione alternativa: 9/0=infinito\n(Suggerita da Don Claudio)]</string>
     <string name="A03">Avrebbe dovuto dire "Sei": la risposta corretta è il numero di lettere che formano il numero.\n("dodici" = 6 lettere; "sei" = 3 lettere)</string>
     <string name="A04">28.\nLa mattina del ventottesimo giorno si troveranno infatti a 27 Km dal punto di partenza: durante il giorno copriranno i 3 Km rimanenti ed arriveranno a destinazione, dunque la corrente non li riporterà più indietro durante la notte.</string>
     <string name="A05">0.\n\nMosè non aveva un\'Arca.</string>
@@ -103,5 +103,32 @@
     <string name="A99">17 caramelle.\n\nMary distribuisce le caramelle seguendo la serie dei numeri primi: 1, 2, 3, 5, 7, 11, 13, 17.</string>
     <string name="A100">Il messaggio dice:\n\'Attacchiamo domani\'\n\nE\' stato infatti codificato con il cifrario di Cesare (altrimenti noto come shifting cipher): ogni lettera è stata sostituita con quella 14 posti più in là nell\'alfabeto.\nA è stata sostituita con O, B con P, C con Q etc.</string>
     <string name="A101">15 ore.\n\nQuando Michele si sveglia infatti, sono le 9 di sera: due ore dopo sarebbero le 11 e mancherebbe un\'ora a mezzanotte, mentre un\'ora più tardi sarebbero le 10 di sera e mancherebbero due ore a mezzanotte.\nMichele ha dormito dalle 6 del mattino, dunque per la bellezza di 15 ore!</string>
+    <string name="A102">Mio figlio</string> 
+    <string name="A103">Non lo raggiungerà mai.\n\nSe la marea innalza il livello dell\'acqua infatti, anche la barca salirà poichè vi galleggia sopra.\nL\'acqua raggiungerà perciò sempre e solo il primo scalino.</string>
+    <string name="A104">Le proporzioni del mix nei due bicchieri sono identiche.</string>
+    <string name="A105">Potresti metterla sulla testa di uno dei presenti.</string>
+    <string name="A106">Ha detto: \'Sarò impiccato!\'</string>
+    <string name="A107">Una bara</string>
+    <string name="A108">Scegliendo l\'ordine giusto, si può trovare la risposta con un massimo di 14 lanci.\n\nEcco come fare:\n\nPer prima cosa, lascia cadere la prima palla dal 14° piano.\nSe si rompe userai l\'altra palla per determinare l\'esatto punto di rottura con un massimo di 13 lanci partendo dal primo piano e salendo di un piano alla volta.\n\nSe la prima palla non si rompe cadendo dal 14° piano, allora lasciala cadere dal 27°(14+13).\nSe si rompe, potrai determinare il punto esatto di rottura con un massimo di altri 12 lanci.\n\nRipeti questo procedimento, sempre salendo di un numero di piani inferiore di uno al piano dell\'ultimo lancio, finchè la prima palla si rompe.\nSe si rompe all\'X-esimolancio, ti occorreranno ancora 14-x lanci della seconda palla per determinare l\'esatto punto di rottura.\n\nAll\'undicesimo lancio della prima palla, se arriva tanto in alto, avrai raggiunto il 99° piano.</string>
+    <string name="A109">Posiziona su ON due interruttori.\nAspetta un poco, poi sposta uno di essi su OFF.\n\nOra sali rapidamente le scale: Una lampadina sarà accesa (interruttore su ON), una spenta (interruttore su OFF), e una spenta ma ancora calda.</string>
+    <string name="A110">Il detective ha notato che la finestra è stata rotta dall\'interno: i pezzi di vetro sono infatti caduti in giardino invece che nella stanza.</string>
+    <string name="A111">Gli si racconta una barzelletta di mercoledì.</string>
+    <string name="A112">Ci sono diverse risposte possibili, ma una delle migliori è senza dubbio questa: dai le chiavi dell\'auto al tuo amico e chiedigli di portare in ospedale l\'anziana signora, mentre tu rimani alla fermata ad aspettare l\'autobus con la donna/l\'uomo dei tuoi sogni.</string>
+    <string name="A113">La più frequente è 1 (ha un\'occorrenza più delle altre perchè 1000 è incluso).\n\nLa meno frequente è lo 0 (anche se ci sono tre zeri in 1000, 0 non ha le ripetizioni di 22, 33, 44, 222, 333 etc.)</string>
+    <string name="A114">La spada non avrebbe mai potuto avere incise le parole\'prima guerra mondiale\', poichè all\'epoca nessuno sapeva che ce ne sarebbe stata una seconda.</string>
+    <string name="A115">Lisa aveva 50 dollari e Megan 30.</string>
+    <string name="A116">100.\n\n(Partendo dal fondo, il conto risulta molto più semplice).</string>
+    <string name="A117">Ti costa meno portarne due.\n\nIn questo modo infatti acquisti un totale di 3 biglietti, mentre se porti lo stesso amico due volte ne acquisti in totale 4.</string>
+    <string name="A118">6.\n\nSi tratta del numero di lettere che compongono ogni numero.\n(Uno=3 lettere, Due=3 lettere etc.)\n\n(Ricorda un altro dei nostri enigmi vero? Lo avevate indovinato?)</string>
+    <string name="A119">Ce ne sono 20:\n9, 19, 29, 39, 49, 59, 69, 79, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98 e 99</string>
+    <string name="A120">Tre: una rosa, un tulipano e un giglio.</string>
+    <string name="A121">Il mercante scrisse \'il tuo peso esatto\' sul pezzo di carta.</string>
+    <string name="A122">Quando state schiena contro schiena.</string>
+    <string name="A123">Si: 47 + 53 + 59 + 61 = 220</string>
+    <string name="A124">Perchè nella popolazione mondiale ci sono più uomini cinesi che giapponesi.</string>
+    <string name="A125">Il pranzo e la cena.</string> 
+    <string name="A126">Taglia XII (12 in numeri romani) orizzontalmente in due.\nOtterrai un VII (7 in numeri romani) nella metà superiore.</string>
+    <string name="A127">L\'imbarcazione era un sottomarino.</string>
+    <string name="A128">Il vino.</string>
 
 </resources>
