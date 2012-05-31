@@ -48,5 +48,8 @@
     <string name="random_sub">Accetta una sfida a caso</string>
     <string name="credits">Info</string>
     <string name="credits_sub">Scopri di più</string>
+    <string name="ftw">FTW</string>
+    <string name="ftw_sub">Un nuovo gioco gratis</string>
+    
 
 </resources>
