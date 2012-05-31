@@ -9,7 +9,7 @@
         <item>5 | Animal species</item>
         <item>6 | Floreal invasion</item>
         <item>7 | A poor smoker</item>
-        <item>8 | Pole&#8230; position</item>
+        <item>8 | Pole… position</item>
         <item>9 | St.Ives</item>
         <item>10 | The bus driver</item>
         <item>11 | Once in a minute</item>
@@ -97,12 +97,39 @@
         <item>93 | Two buckets</item>
         <item>94 | A strange chain</item>
         <item>95 | Sales!</item>
-        <item>96 | An old man was fishing&#8230;</item>
+        <item>96 | An old man was fishing…</item>
         <item>97 | Cement and sand</item>
         <item>98 | Chemistry lab problem</item>
         <item>99 | A passion for candies</item>
-        <item>100 | Ennemy message</item>
+        <item>100 | Enemy message</item>
         <item>101 | A wild party</item>
+        <item>102 | This man</item>
+        <item>103 | The ship and the ladder</item>
+        <item>104 | The mix</item>
+        <item>105 | All but one</item>
+        <item>106 | Poor but smart</item>
+        <item>107 | What is it?</item>
+        <item>108 | (Not) breaking balls</item>
+        <item>109 | Three switches</item>
+        <item>110 | The stolen diamond</item>
+        <item>111 | Make an idiot laugh</item>
+        <item>112 | Moral dilemma</item>
+        <item>113 | The most frequent digit</item>
+        <item>114 | War stories</item>
+        <item>115 | Lisa and Megan</item>
+        <item>116 | Fractions</item>
+        <item>117 | Let\'s go to the movies!</item>
+        <item>118 | Complete the sequence</item>
+        <item>119 | How many 9\'s?</item>
+        <item>120 | My flowers</item>
+        <item>121 | An expensive carnival</item>
+        <item>122 | Behind</item>
+        <item>123 | Prime numbers</item>
+        <item>124 | Rice eaters</item>
+        <item>125 | Impossible to eat</item>
+        <item>126 | Weird division</item>
+        <item>127 | Mystery at the harbor</item>
+        <item>128 | Who am I</item>
     </string-array>
 
 </resources>
