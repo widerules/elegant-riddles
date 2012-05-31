@@ -3,7 +3,7 @@
 
     <!-- ANSWERS -->
     <string name="A01">The female will have 44 sticks, the male 66.</string>
-    <string name="A02">387420489\n(9^9)</string>
+    <string name="A02">387420489\n(9^9)\n\n[Alternative solution: 9/0=infinite\n(Thanks to Don Claudio)]</string>
     <string name="A03">He should have said "Three": the answer is the number of letters forming the word.\n("twelve" = 6 letters; "six" = 3 letters)</string>
     <string name="A04">28.\nThe morning of the 28th day the will be 27Km from the start: during the day they will reach their destination and will no longer be taken back by the current during the night.</string>
     <string name="A05">0: Moses didn\'t have an Ark.</string>
@@ -103,5 +103,32 @@
     <string name="A99">17 candies.\n\nMary is distributing them following the series of prime numbers: 1, 2, 3, 5, 7, 11, 13, 17.</string>
     <string name="A100">The message says:\n\'We will attack tomorrow\'\n\nIt has been encoded using a Caesar Cipher: each letter has been shifted by 8 places in the alphabet.\nA has been substituted by I, B by J, C by K etc.</string>
     <string name="A101">15 hours.\n\nIn fact, when Mike wakes up, it is 9:00 P.M.: two hours later would make it 11:00 P.M., with one hour to midnight, and one hour later would make it 10:00 P.M., with two hours to midnight.\nMike has been sleeping since 6.00 A.M., so he has been asleep for 15 hours.</string>
+    <string name="A102">My Son</string>
+    <string name="A103">Never.\n\nIf the tide is raising water, then it is raising the ship on water as well, so water will always be reaching the first rung. </string>
+    <string name="A104">There is exactly as much tonic in the glass of fernet as there is of fernet in the glass of tonic. </string>
+    <string name="A105">You could place the apple on one person\'s head.The farmer said: \'I shall be hanged!\'</string>
+    <string name="A106">The farmer said: \'I shall be hanged!\'</string>
+    <string name="A107">A coffin</string>
+    <string name="A108">If the proper order is chosen, you can determine the breaking point with a maximum of 14 drops.\n\nHere\'s how to do it:\n\nFirst drop the first ball from the 14th floor.\nIf it breaks you can determine the exact breaking point with the other ball in at most 13 more droppings, starting at the bottom and going up one floor at a time.\n\nIf the first ball survives the 14 floor drop, then drop it again from the 27th (14+13) floor.\nIf it breaks, you can determine the exact breaking point with at most 12 more droppings.\n\nKeep repeating this process, always going up one less floor than the last dropping until the first ball breaks.\nIf it breaks on the x-th dropping, you will only need at most 14-x more droppings with the second ball to find the breaking point.\n\nBy the 11th dropping of the first ball, if you get that far, you will have reached the 99th floor.</string>
+    <string name="A109">Turn two of the light switches on.\nWait a while, then turn one of them off.\n\nNow quickly enter the attic: one light will be on, one off, and one off but still hot.</string>
+    <string name="A110">When Detective Thompson was outside, he noticed the shattered pieces of glass were under his feet: this meant that the glass was broken from inside.</string>
+    <string name="A111">Tell him a joke on Wednesday.</string>
+    <string name="A112">There are different possible answers, but one of the best is for sure this one:  give the car keys to your old friend and let him take the lady to the hospital. You would stay behind and wait for the bus with the woman of your dreams.</string>
+    <string name="A113">1 is the most frequent one (has an extra occurrence because we\'re including 1000).\n\n0 is the less frequent one (although there are 3 zeros in 1000, 0 doesn\'t have any equivalents to 22, 33, 44, 222, 3333, etc.)</string>
+    <string name="A114">The sword would never have the words \'World War 1\' engraved in it, because at the time they won\'t be expecting that there will be WW II.</string>
+    <string name="A115">Lisa had $50 and Megan had $30.</string>
+    <string name="A116">100.\n\nLooks hard?\nDon\'t worry, just work it backwards and you\'ll find it very easy.</string>
+    <string name="A117">It\'s cheaper to take two friends at the same time.\n\nIn this case you would only be buying three tickets whereas, if you take the same friend twice, you are buying four tickets (including the one for yourself).</string>
+    <string name="A118">6.\n\nCount the number of letters in the spelling of each number.\n(One=3, Two=3, Three=5 etc.)\n\n(Sounds familiar from another of our riddles, doesn\'t it?)</string>
+    <string name="A119">There are 20 9\'s.\n\n9, 19, 29, 39, 49, 59, 69, 79, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98 and 99</string>
+    <string name="A120">Three: a rose, a tulip and a daisy.</string>
+    <string name="A121">The man did exactly as he said and wrote \'your exact weight\' on the paper.</string>
+    <string name="A122">Yes, if you stand back to back.</string>
+    <string name="A123">47 + 53 + 59 + 61 = 220</string>
+    <string name="A124">In the world popoulation there are more Chinese men than Japanese men.</string>
+    <string name="A125">Lunch and dinner.</string>
+    <string name="A126">Cut XII into two halves horizontally.\nYou get VII on the top half.</string>
+    <string name="A127">The ship was a submarine.</string>
+    <string name="A128">Wine.</string>
 
 </resources>
