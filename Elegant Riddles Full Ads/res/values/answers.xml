@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- ANSWERS -->
+    <string name="A01">The female will have 44 sticks, the male 66.</string>
+    <string name="A02">387420489\n(9^9)\n\n[Alternative solution: 9/0=infinite\n(Thanks to Don Claudio)]</string>
+    <string name="A03">He should have said "Three": the answer is the number of letters forming the word.\n("twelve" = 6 letters; "six" = 3 letters)</string>
+    <string name="A04">28.\nThe morning of the 28th day the will be 27Km from the start: during the day they will reach their destination and will no longer be taken back by the current during the night.</string>
+    <string name="A05">0: Moses didn\'t have an Ark.</string>
+    <string name="A06">67.\nThe 70th day the hill is completely covered: this means that 36 hours earlier it was half covered, and 72 hours earlier it was covered for a quarter.</string>
+    <string name="A07">12.\nFrom 50 butts the girl will get 10 cigars. Smoking them she will have 10 butts, that she will turn into 2 more cigars.</string>
+    <string name="A08">0: because the compass always points north.</string>
+    <string name="A09">Just me.</string>
+    <string name="A10">Because he was walking.</string>
+    <string name="A11">The letter M.</string>
+    <string name="A12">One kid took the basket, with the last apple in it.</string>
+    <string name="A13">1)Joe attaches a lock to the ring and send the box to his friend.\n\n2)His friend attaches his own lock beside the one already there and sends the box back.\n\n3)Joe removes the first lock and sends the box back.\n\n4)The friend removes his own lock and opens the box.</string>
+    <string name="A14">Diana</string>
+    <string name="A15">135\n\n60*2 = 120\nA quarter of 120 is 30: 120+30 = 150\n10 percent of 150 is 15: 150-15 = 135</string>
+    <string name="A16">There are 4 bees and 3 flowers.</string>
+    <string name="A17">None.\nIf I had any cat at all, there would always be two statements true at the same time. Therefore, I have no cats.</string>
+    <string name="A18">Four boys and three girls.</string>
+    <string name="A19">The picture was in the silver box.\n\nIf her picture had been in the gold box or in the bronze one, two statements would have been true.</string>
+    <string name="A20">324</string>
+    <string name="A21">I am 40 and my daughter is 10.</string>
+    <string name="A22">The farmer had 1975 seeds.\n\nWhen he formed a square measuring 44 by 44, he had 39 seeds left over.\nWhen he tried to form a square 45 x 45, he was 50 seeds short.</string>
+    <string name="A23">Neither, it\'s a paradox.</string>
+    <string name="A24">12 Pounds.</string>
+    <string name="A25">The German.</string>
+    <string name="A26">Happy Birthday</string>
+    <string name="A27">I waited for sunset</string>
+    <string name="A28">The man is bald.</string>
+    <string name="A29">She put the poison in the ice.\nBond drank the punch instantly, before the ice could melt, and wasn\'t therefore affected by the poison.</string>
+    <string name="A30">Because the truck lost approximately 2 lbs in gas.</string>
+    <string name="A31">The men are standing with their back to the edge of the ship, so that they are looking at each other.</string>
+    <string name="A32">The first man had the hiccup, therefore he asked for a glass of water. The barman tried to help scaring him instead and the idea worked.</string>
+    <string name="A33">He suggested to let enough air out of the tires to lower the truck just of about one inch.</string>
+    <string name="A34">Alfred, Ben, and Carl were lying. Alfred broke the window.\nThis is the only logical combination possible without getting stuck in a paradox.</string>
+    <string name="A35">12.\nJanuary the 2nd, February the 2nd, etc.</string>
+    <string name="A36">Because Bertha is a hurricane.</string>
+    <string name="A37">Yes, if one of them is born late in the night of December 31st and the other early in the morning of Jan the 1st.</string>
+    <string name="A38">The letter G.</string>
+    <string name="A39">Jackie.</string>
+    <string name="A40">The mummy has no belly button</string>
+    <string name="A41">4 minutes.\n\nWhen the Jane tells another person, two people know the message (and 1 minute passed).\nNow two people can tell two other people at the same time the new number, so that four people know the message (and 2 minutes passed).\nNow that four people will tell other four people (and 3 minutes passed).\nThe next minute, everybody will have the new number.</string>
+    <string name="A42">The archer shot the arrow into the tree then painted the target around it.</string>
+    <string name="A43">To measure half an hour, you could light a stick from both sides: it would completely burn off in 30 minutes\n\nTo measure 45 minutes instead, you could light a stick from both sides and light the other stick from 1 side.\nAfter the first stick completely burns, half an hour has passed. Then you could light the other burning stick from the other side, and it will burn completely in another 15 minutes.</string>
+    <string name="A44">Pour medicine into the 5 and 11 oz. cups until both are full, then pour the remaining 8 oz. in the bottle into the 13 oz. cup.\nEmpty both the 5 and 11 oz. cups back into the bottle and transfer the medicine in the 13 oz. cup into the 11 oz. cup.\nPour 13 out of the 16 oz. in the bottle into the 13 oz. cup.\n\nPour 5 oz. of the 13 oz. cup into the 5 oz. cup.\nNow pour the 5 oz. in the 5 oz. cup back into the 24 oz. bottle.\nYou now have 8 oz. in the 24 oz. bottle, the 11 oz. cup, and the 13 oz. cup, while the 5 oz. cup is empty.</string>
+    <string name="A45">Throw it up in the air.</string>
+    <string name="A46">They are daughter, mother and grandmother.</string>
+    <string name="A47">Both 200 pound guys cross the river while the 400 pound guy stays.\nThen one of the 2oo pound guys comes back with the boat and gives it to his 400 pound friend.\nHe gets across the river and gives the boat to the 200 pounds guy waiting on the shore.\nFinally, the two 200 pounds guys cross the river together.</string>
+    <string name="A48">In the dictionary</string>
+    <string name="A49">The other side of the rope isn\'t tied to anything.</string>
+    <string name="A50">143547\n\nFirst 2 digits are the product of 1st and 2nd elements of the sum.\nNext 2 digits are the product of 1st and 3rd elements of the sum.\nLast two digits are the sum of the two previous multiplications, minus the 2nd element.</string>
+    <string name="A51">Mark is a justice of the peace: to marry people is part of his job.</string>
+    <string name="A52">The statement number 9 is true.\n\nSince 1 of these 10 statements is true, nine of them need to be false.</string>
+    <string name="A53">You can count the letters in the words</string>
+    <string name="A54">Third.\nAfter you passed the third racer, you took over that position.</string>
+    <string name="A55">You take 6 random weights and put three on each side of the scale.\nIf they stay the same you know that the lightest one isn\'t in the batch, so you have 2 weights left: weight them and the one that goes up is the lightest.\n\nIf one of the plates goes down instead, put those three weights apart, the lightest is on the plate going up.\nTake those three weights and weight two of them: if they are the same, the lightest is the third one, else it is the one on the plate going up.</string>
+    <string name="A56">He is born on February 29</string>
+    <string name="A57">They have one brother.</string>
+    <string name="A58">It was still Mount Everest, even if nobody knew it.</string>
+    <string name="A59">She meant \'I miss U\'.</string>
+    <string name="A60">Jack had never played before.</string>
+    <string name="A61">312211.\n\n1 = "one one"(or 11)\n11 = "two ones" (or 21)\n21 = "one two, one one" (or 1211) etc.</string>
+    <string name="A62">10 miles each according to Pythagoras Theorem.</string>
+    <string name="A63">The small donkey is the daughter of the big donkey.</string>
+    <string name="A64">0 birds and 86 cows.\n\nEach Cow has 2 eyes and 4 legs and each bird has 2 eyes and 2 legs.\nLets call each eye as x and each leg as y, also each bird is n and each cow is m so:\n\n\nn(2x+2y) + m(2x + 4y) = 172x + 344y\nSolving the equation we have n = 0.</string>
+    <string name="A65">Three.\nTwo of them will surely be of the same color.</string>
+    <string name="A66">15.\n\nIn fact:\n105 - x = y\nand\n13x = 105 + y</string>
+    <string name="A67">When they meet, they need to be both at the same distance away from London.</string>
+    <string name="A68">10 Km.</string>
+    <string name="A69">4 hours 43 minutes and 17 seconds.\n\nIn an hour, each tap fills 1/48, 1/72, 1/96 and 1/6.\n\nSo, in one hour the pool will be 61/288 full and it will be completely full in 288/61 hours, i.e. 4 hours 43 minutes and 17 seconds.</string>
+    <string name="A70">She jumped from the first of the ten floors in the building.</string>
+    <string name="A71">10 minutes.\n\nThe total time was one hour and already 50 minutes are over.</string>
+    <string name="A72">The donkey is gray.\n\n If the donkey is brown, then every one is right: this is not the answer.\n\nIf the donkey is black, then every one is wrong: this is not the answer either.\n\nTherefore, the donkey is gray.\nAlan was right, Brian was right, but Charlie was wrong.</string>
+    <string name="A73">The brother is older.\n\nSince there is no conflict between what they said, it meant that either they both told a lie or both told the truth.\nIn this case they both told a lie, because we know at least one of them needs to be telling a lie.</string>
+    <string name="A74">1)8 Minutes, because each monkey takes 8 minutes to eat a banana.\n\n8 Monkey: a monkey eats a banana in 8 minutes, then it will eat 6 bananas in 48 minutes. We need therefore 8 monkey to eat 48 bananas in that amount of time.</string>
+    <string name="A75">133.33 miles.\n\nWhen the fly lands on the first cyclist, they are 50 miles apart.\nThe fly has then to travel (50 + x) miles at 16 miles/hour, in order to get to the second cyclist, where  x is the additional distance between the two bikers, growing at the speed of 10 miles/hour.\n\nIn equations:\ny = 50 + x (distance)\n(50 + x)/16 = x/10 (time)</string>
+    <string name="A76">Yes, it is.</string>
+    <string name="A77">99.\n\nShe is the 50th better athlete: this means there are 49 students better than her.\nShe is also the 50th worst athlete: this means there are 49 students worse than her.\n49(better) + 49(worse) + 1(Sue) = 99</string>
+    <string name="A78">120.\n\nIt is just the same proportion of the initial condition: half men (5 instead of 10) make half the work (60 holes instead of 120).\nIt means it will take them exactly the same time.</string>
+    <string name="A79">10.\n\n800/10 = 80\n80/4=20\n20/2=10\n</string>
+    <string name="A80">2 apples.</string>
+    <string name="A81">Yours.\nYou were driving, remember?</string>
+    <string name="A82">23.\n\n23-1 = 22.\n22/2 = 11.\n11-1 = 10.\n10/2 = 5</string>
+    <string name="A83">Rocket.</string>
+    <string name="A84">No: it is illegal to bury a man who is still alive.</string>
+    <string name="A85">KANGAROO\n\nThe others walk on 4 legs.</string>
+    <string name="A86">6 trips.\n\n5 to carry the boxes, plus the initial trip to the store to buy them.</string>
+    <string name="A87">48.\n\nThe progression is: times 2, plus 3, times 2, plus 3, etc.</string>
+    <string name="A88">Night.</string>
+    <string name="A89">URA.\n\nThe other three-letter sets are the last three letters in the names of the planets (SatURN MARS EaRTH JupiTER and UraNUS).\nURA is the first three letters in the name of the planet Uranus instead.</string>
+    <string name="A90">Waves.\n\nThe Hawthorne Effect dealt with the behavior of people who are being observed, and the Doppler Effect dealt with waves.</string>
+    <string name="A91">11.\n\nEvery month, safe for February, has 30 day. Some of them have 1 more for a maximum of 31.</string>
+    <string name="A92">He\'s a midget and can\'t reach the top button.</string>
+    <string name="A93">First, fill the three gallon bucket with water and empty into the five gallon bucket.\n\nSecond, fill the three gallon bucket with water again and top off the five gallon bucket, leaving one gallon left in the three gallon bucket.\n\nThird, empty the FIVE gallon bucket and pour the remaining one gallon of water from the three gallon bucket into the five gallon bucket.\nFinally, fill the three gallon bucket and pour the water into the five gallon bucket.\n\nAs a result, you should have four gallons of water in the five gallon bucket.</string>
+    <string name="A94">38272416.\n\nABC represent the numbers 1, 2 and 3: multiply them together and you get 6.\nFGH represents 6, 7 and 8: multiply them to get the next step: 336.\nCCFCCGCCH represents 336, 337 and 338. Multiply them to get the answer: 38272416.</string>
+    <string name="A95">25 percent.</string>
+    <string name="A96">72 inches.\n\nHead: 9 inches\nTail: 27 inches\nBody: 36 inches</string>
+    <string name="A97">12.\n\nThe solution is found with the equation:\n\n28 = 3/7*(28) + 4/7*(28)\n\nwehre the number of containers of cement required is (3/7)*28</string>
+    <string name="A98">40 liters.\n\nThe solution is found with:\n\nv1*concentration1 + v2*concentration2 = Vtotal*finalconcentration.</string>
+    <string name="A99">17 candies.\n\nMary is distributing them following the series of prime numbers: 1, 2, 3, 5, 7, 11, 13, 17.</string>
+    <string name="A100">The message says:\n\'We will attack tomorrow\'\n\nIt has been encoded using a Caesar Cipher: each letter has been shifted by 8 places in the alphabet.\nA has been substituted by I, B by J, C by K etc.</string>
+    <string name="A101">15 hours.\n\nIn fact, when Mike wakes up, it is 9:00 P.M.: two hours later would make it 11:00 P.M., with one hour to midnight, and one hour later would make it 10:00 P.M., with two hours to midnight.\nMike has been sleeping since 6.00 A.M., so he has been asleep for 15 hours.</string>
+    <string name="A102">My Son</string>
+    <string name="A103">Never.\n\nIf the tide is raising water, then it is raising the ship on water as well, so water will always be reaching the first rung. </string>
+    <string name="A104">There is exactly as much tonic in the glass of fernet as there is of fernet in the glass of tonic. </string>
+    <string name="A105">You could place the apple on one person\'s head.The farmer said: \'I shall be hanged!\'</string>
+    <string name="A106">The farmer said: \'I shall be hanged!\'</string>
+    <string name="A107">A coffin</string>
+    <string name="A108">If the proper order is chosen, you can determine the breaking point with a maximum of 14 drops.\n\nHere\'s how to do it:\n\nFirst drop the first ball from the 14th floor.\nIf it breaks you can determine the exact breaking point with the other ball in at most 13 more droppings, starting at the bottom and going up one floor at a time.\n\nIf the first ball survives the 14 floor drop, then drop it again from the 27th (14+13) floor.\nIf it breaks, you can determine the exact breaking point with at most 12 more droppings.\n\nKeep repeating this process, always going up one less floor than the last dropping until the first ball breaks.\nIf it breaks on the x-th dropping, you will only need at most 14-x more droppings with the second ball to find the breaking point.\n\nBy the 11th dropping of the first ball, if you get that far, you will have reached the 99th floor.</string>
+    <string name="A109">Turn two of the light switches on.\nWait a while, then turn one of them off.\n\nNow quickly enter the attic: one light will be on, one off, and one off but still hot.</string>
+    <string name="A110">When Detective Thompson was outside, he noticed the shattered pieces of glass were under his feet: this meant that the glass was broken from inside.</string>
+    <string name="A111">Tell him a joke on Wednesday.</string>
+    <string name="A112">There are different possible answers, but one of the best is for sure this one:  give the car keys to your old friend and let him take the lady to the hospital. You would stay behind and wait for the bus with the woman of your dreams.</string>
+    <string name="A113">1 is the most frequent one (has an extra occurrence because we\'re including 1000).\n\n0 is the less frequent one (although there are 3 zeros in 1000, 0 doesn\'t have any equivalents to 22, 33, 44, 222, 3333, etc.)</string>
+    <string name="A114">The sword would never have the words \'World War 1\' engraved in it, because at the time they won\'t be expecting that there will be WW II.</string>
+    <string name="A115">Lisa had $50 and Megan had $30.</string>
+    <string name="A116">100.\n\nLooks hard?\nDon\'t worry, just work it backwards and you\'ll find it very easy.</string>
+    <string name="A117">It\'s cheaper to take two friends at the same time.\n\nIn this case you would only be buying three tickets whereas, if you take the same friend twice, you are buying four tickets (including the one for yourself).</string>
+    <string name="A118">6.\n\nCount the number of letters in the spelling of each number.\n(One=3, Two=3, Three=5 etc.)\n\n(Sounds familiar from another of our riddles, doesn\'t it?)</string>
+    <string name="A119">There are 20 9\'s.\n\n9, 19, 29, 39, 49, 59, 69, 79, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98 and 99</string>
+    <string name="A120">Three: a rose, a tulip and a daisy.</string>
+    <string name="A121">The man did exactly as he said and wrote \'your exact weight\' on the paper.</string>
+    <string name="A122">Yes, if you stand back to back.</string>
+    <string name="A123">47 + 53 + 59 + 61 = 220</string>
+    <string name="A124">In the world popoulation there are more Chinese men than Japanese men.</string>
+    <string name="A125">Lunch and dinner.</string>
+    <string name="A126">Cut XII into two halves horizontally.\nYou get VII on the top half.</string>
+    <string name="A127">The ship was a submarine.</string>
+    <string name="A128">Wine.</string>
+
+</resources>

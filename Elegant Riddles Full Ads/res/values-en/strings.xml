@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Elegant Riddles</string>
+    <string name="title">Elegant Riddles</string>
+    <string name="subtitle">Soothes the eye, challenges the mind</string>
+    <string name="hint">Type here your answer</string>
+    <string name="btn_back">Back</string>
+    <string name="btn_answer">Submit</string>
+    <string name="btn_hints_back">Back to the riddle</string>
+    <string name="tableOfContents">Choose a riddle</string>
+    <string name="credits_title">Info and Credits</string>
+    <string name="credits_text">Elegant Riddles is a collection of 101 riddles and mind-teasers, presented in an eye-soothing environment.\n\nThe level and style of the riddles varies wildly across the whole collection, as they are not ordered by difficulty.\nAlso remember that you could find a calculator and a notebook very useful for a few of them.\n\nAll images used in this app are from the Flickr archive \'The Commons\'.</string>
+    <string name="credits_mail">Send us an email</string>
+    <string name="credits_adfree_text">This is the free, ad-supported, version of the game.\nTo get rid of ads, purchase the full game on the market.</string>
+    <string name="credits_adfree">Get full-version!</string>
+    <string name="credits_mail_text">For further info, suggestions and requests, mail us.</string>
+    <string name="correct_title">Congratulations!</string>
+    <string name="quit">Quit?</string>
+    <string name="solution">Solution</string>
+    <string name="solution_text">The answer is:</string>
+    <string name="solution_notes">Your notes:</string>
+    <string name="btn_really_solution">Yes, show me the solution</string>
+    <string name="text_really_solution">Are you sure you want to see the solution?</string>
+    <string name="really_quit">Are you sure you want to quit Elegant Riddles?</string>
+    <string name="x">Go ad-free, now!</string>
+    <string name="notepad_hint">You may use this space to take some note</string>
+    <string name="riddleGetAnother">Try another riddle?</string>
+    <string name="riddlenext_btn">&#62;&#62;</string>
+    <string name="riddleprev_btn">&#60;&#60;</string>
+    <string name="riddlerdm_btn">Random</string>
+
+    <!-- OPT MENU -->
+    <string name="opt_premium_text">Go Ad-Free</string>
+    <string name="opt_buy_text">Ad-Free</string>
+    <string name="opt_back_text">Back</string>
+    <string name="opt_home_text">Home</string>
+    <string name="opt_quit_text">Quit</string>
+    <string name="opt_sol_text">Solution</string>
+    <string name="opt_toc_text">Index</string>
+    <string name="opt_vib_text_on">Vibration is ON</string>
+    <string name="opt_vib_text_off">Vibration is OFF</string>
+
+    <!-- MENU -->
+    <string name="play">Play</string>
+    <string name="play_sub">Choose a riddle</string>
+    <string name="random">Random</string>
+    <string name="random_sub">Pick a random riddle</string>
+    <string name="credits">More</string>
+    <string name="credits_sub">Find out more</string>
+    <string name="ftw">Discover FTW</string>
+    <string name="ftw_sub">Try a new game for free</string>
+
+</resources>
