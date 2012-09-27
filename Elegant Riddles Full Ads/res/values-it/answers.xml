@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- ANSWERS --> 
+    <string name="A01">La femmina avrà 44 bastoncini, il maschio 66.</string>
+    <string name="A02">387420489\n(9 elevato alla 9)\n\n[Soluzione alternativa: 9/0=infinito\n(Suggerita da Don Claudio)]</string>
+    <string name="A03">Avrebbe dovuto dire "Sei": la risposta corretta è il numero di lettere che formano il numero.\n("dodici" = 6 lettere; "sei" = 3 lettere)</string>
+    <string name="A04">28.\nLa mattina del ventottesimo giorno si troveranno infatti a 27 Km dal punto di partenza: durante il giorno copriranno i 3 Km rimanenti ed arriveranno a destinazione, dunque la corrente non li riporterà più indietro durante la notte.</string>
+    <string name="A05">0.\n\nMosè non aveva un\'Arca.</string>
+    <string name="A06">67.\n\nIl settantesimo giorno la collina è completamente coperta: questo significa che 36 ore prima era coperta per metà e 72 ore prima per un quarto.</string>
+    <string name="A07">12.\n\nDa 50 pezzi ottiene 10 sigari. Fumandoli ne otterrà 10 fondi, da cui ricaverà altri due sigari.</string>
+    <string name="A08">0.\n\nLa bussola punta sempre a Nord, dunque il percorso del cacciatore descrive un triangolo che lo riporta a casa.</string>
+    <string name="A09">Solo io.</string>
+    <string name="A10">Perché non stava guidando in quel momento: passeggiava.</string>
+    <string name="A11">La lettera M.</string>
+    <string name="A12">Il quarto ragazzino si è preso il cestino, con la mela dentro.</string>
+    <string name="A13">1)Joe chiude la scatola con uno dei suoi lucchetti e la manda al suo amico.\n\n2)L\'amico aggiunge uno dei suoi lucchetti alla scatola e la rimanda a Joe.\n\n3)Joe toglie il suo lucchetto e rispedisce la scatola.\n\n4)L\'amico di Joe rimuove il lucchetto che aveva messo e finalmente può aprire la scatola.</string>
+    <string name="A14">Diana</string>
+    <string name="A15">135\n\n60*2 = 120\nUn quarto di 120 è 30: 120+30 = 150\n10 percento di 150 è 15: 150-15 = 135</string>
+    <string name="A16">Ci sono 4 api e 3 fiori.</string>
+    <string name="A17">Nessuno.\nSe avessi anche solo un gatto, ci sarebbero due frasi contemporaneamente vere.</string>
+    <string name="A18">Quattro ragazzi e tre ragazze.</string>
+    <string name="A19">Il ritratto era nel contenitore d\'argento.\n\nSe si fosse trovata in una delle altre due scatole, due frasi avrebbero dovuto essere vere contemporaneamente.\n</string>
+    <string name="A20">324</string>
+    <string name="A21">Io ho 40 anni e mia figlia ne ha 10.</string>
+    <string name="A22">Il contadino ha 1975 semi.\n\nQuando ha formato un quadrato 44 x 44, ne sono avanzati 39.\nQuando ha provato a fare un quadrato 45 x 45, ne mancavano 50.</string>
+    <string name="A23">Si tratta di un paradosso.</string>
+    <string name="A24">12 grammi.</string>
+    <string name="A25">Il Tedesco.</string>
+    <string name="A26">Happy Birthday.</string>
+    <string name="A27">Ho atteso il tramonto.</string>
+    <string name="A28">Era calvo.</string>
+    <string name="A29">La spia aveva messo il veleno nel ghiaccio.\nBond ha bevuto il drink immediatamente, prima che il ghiaccio si potesse sciogliere, e non ha assunto il veleno.</string>
+    <string name="A30">Perchè il camion ha consumato nel percorso circa 2 libbre di benzina.</string>
+    <string name="A31">I due marinai danno la schiena al mare, dunque si possono vedere attraverso il ponte della nave.</string>
+    <string name="A32">L\'uomo ha il singhiozzo: il barman lo ha spaventato per farglielo passare.</string>
+    <string name="A33">Suggerì di sgonfiare un poco le gomme, così da guadagnare i pochi centimetri di differenza.</string>
+    <string name="A34">Alfredo, Bruno e Carlo mentivano. Il vetro è stato rotto da Alfredo.\n\nQuesta è la sola combinazione logica possibile di quanto dichiarato dai ragazzini.</string>
+    <string name="A35">12.\n\nIl secondo giorno di Gennaio, il secondo giorno di Febbraio etc.</string>
+    <string name="A36">Perché Bertha è un uragano.</string>
+    <string name="A37">Sì, se uno dei due è nato poco prima di mezzanotte il 31 Dicembre di un anno e l\'altro nei primi minuti del primo Gennaio dell\'anno successivo.</string>
+    <string name="A38">La lettera O.</string>
+    <string name="A39">Gigi.</string>
+    <string name="A40">La mummia non ha l\'ombelico</string>
+    <string name="A41">4 minuti.\n\nQuando Laura lo dice a un amico, due persone hanno il nuovo numero (ed è trascorso un minuto).\nQueste due persone comunicano il nuovo numero ad altre due, così 4 persone hanno il numero nuovo (e sono trascorsi 2 minuti).\nOra queste quattro persone daranno il numero ad altre quattro (e 3 minuti sono trascorsi).\nIl minuto successivo, tutti i 10 amici conosceranno il numero nuovo.</string>
+    <string name="A42">L\'arciere ha prima scoccato la freccia e poi ha dipinto il bersaglio attorno ad essa.</string>
+    <string name="A43">Per misurare 30 minuti, accendi un bastoncino da entrambi i lati: si brucerà completamente proprio in 30 minuti.\n\nPer misurarne 45 invece, accendi un bastoncino da entrambi i lati e l\'altro da un lato solo.\nDopo che il primo bastoncino si sarà consumato completamente sarà passata mezz\'ora; allora accendi l\'altra estremità del bastoncino rimanente ed esso brucerà completamente in altri 15 minuti.</string>
+    <string name="A44">Verserà la medicina nel contenitore da 5 cl e in quello da 11 cl, poi verserà il rimanente nel contenitore da 13 cl.\n Rimetterà nella bottiglia il contenuto dei misurini da 5 e da 11 cl e sposterà la medicina nel contenitore da 13 in quello da 11 cl.\nVerserà poi 13 cl dei 16 nella bottiglia nel contenitore da 13 cl.\n\nDal contenitore da 13 cl verserà 5 cl di medicina nel contenitore da 5 cl.\nOra versa nella bottiglia il contenuto del misurino da 5 cl.\nCosì avrà ottenuto 8 cl. nella bottiglia, nel misurino da 11 cl e in quello da 13 cl., lasciando vuoto il contenitore da 5 cl.</string>
+    <string name="A45">Lanciandola in verticale verso l\'alto.</string>
+    <string name="A46">Sono 3 donne: figlia, mamma e nonna.</string>
+    <string name="A47">I ragazzi di 45 Kg attraversano entrambi il fiume in barca.\nPoi uno di loro riporta la barca indietro e il ragazzo di 90 Kg attraversa il fiume.\nInfine il ragazzo da 45 Kg prende la barca e torna a prendere l\'altro ragazzo.</string>
+    <string name="A48">Il dizionario</string>
+    <string name="A49">L\'altro capo della corda non è attaccato a nulla.</string>
+    <string name="A50">143547\n\nLe prime due cifre sono il prodotto del primo e del secondo elemento della somma.\nLe due cifre successive sono il prodotto del primo e del terzo elemento della somma.\nLe ultime due cifre sono la somma delle due precedenti moltiplicazioni, meno il secondo elemento.</string>
+    <string name="A51">Mark è un giudice di pace: sposare le persone è parte del suo lavoro.</string>
+    <string name="A52">La frase numero 9 è vera.\n\nPoichè una delle dieci frasi è vera, 9 di esse devono essere false.</string>
+    <string name="A53">Puoi contare le lettere che compongono la parola.</string>
+    <string name="A54">Terzo.\nDopo aver superato il terzo corridore, ne hai preso il posto in classifica.</string>
+    <string name="A55">Prendi sei pesi a caso e ne posizioni tre su ogni piatto.\nSe stanno in equilibrio saprai che il peso più leggero è un degli altri due: li confronti con la seconda pesata ed hai risolto.\n\nSe uno dei piatti scende invece, elimina quei tre pesi perché il più leggero è di certo nell\'altro piatto.\nDi quei tre pesi ora confrontane due con la seconda pesata: se sono uguali il più leggero e il terzo, se no è quello sul piatto che si alza.</string>
+    <string name="A56">E\' nato il 29 Febbraio.</string>
+    <string name="A57">Hanno un fratello.</string>
+    <string name="A58">Era sempre l\'Everest, anche se non lo sapeva nessuno.</string>
+    <string name="A59">Voleva dire \'I miss U\'.</string>
+    <string name="A60">Antonio non aveva mai giocato.</string>
+    <string name="A61">312211.\n\n1 = "Un uno"(o 11)\n11 = "Due uno" (o 21)\n21 = "Un due, un uno" (o 1211) etc.</string>
+    <string name="A62">20 miglia, secondo il teorema di Pitagora.</string>
+    <string name="A63">L\'asino piccolo è la figlia dell\'asino grande.</string>
+    <string name="A64">0 galline e 86 mucche.\n\nOgni mucca ha 2 occhi e 4 gambe ed ogni gallina 2 occhi e 2 gambe.\nChiamiamo X ogni occhio e Y ogni gamba, ogni gallina N e ogni mucca M:\n\n\nn(2x+2y) + m(2x + 4y) = 172x + 344y\nRisolvendo il sistema abbiamo n = 0.</string>
+    <string name="A65">Tre.\nDue di essi saranno di certo dello stesso colore.</string>
+    <string name="A66">15.\n\nInfatti:\n105 - x = y\ne\n13x = 105 + y\n</string>
+    <string name="A67">Quando si incontrano, sono per forza alla stessa distanza da Londra.</string>
+    <string name="A68">10 Km.</string>
+    <string name="A69">4 ore, 43 minuti e 17 secondi.\n\nIn un\'ora ogni bocchetta riempie 1/48, 1/72, 1/96 e 1/6 di piscina.\n\nIn un\'ora la piscina sarà quindi piena per 61/288 e pertanto si riempirà del tutto in 288/61 ore, cioè 4 ore 43 minuti e 17 secondi.</string>
+    <string name="A70">Salta da una delle finestre del piano terra.</string>
+    <string name="A71">10 minuti.\n\nIl tempo totale era un\'ora e 50 minuti sono già passati.\n(Accettabili anche altre soluzioni, purché nelle medesime proporzioni)</string>
+    <string name="A72">L\'asino è grigio.\n\n Fosse stato marrone, tutti avrebbero avuto ragione.\n\nFosse stato nero, tutti avrebbero avuto torto.\n\nDunque l\'asino è grigio.</string>
+    <string name="A73">Il fratello è il più anziano.\n\nPoichè non c\'è conflitto in ciò che dicono, entrambi dicono la verità o entrambi mentono.\nIn questo caso almeno uno deve mentire, dunque entrambe le frasi devono essere false.</string>
+    <string name="A74">1)8 Minuti, perché ogni scimmia impiega 8 minuti per mangiare una banana.\n\n8 scimmie: una scimmia mangia una banana in 8 minuti, quindi mangia 6 banane in 48 minuti. Quindi occorrono 8 scimmie per mangiare 48 banane in 48 minuti.</string>
+    <string name="A75">133.33 Km.\n\nQuando la mosca si posa sul primo ciclista i due sono lontani 50 Km.\nLa mosca deve quindi volare (50 + x) Km a 16 Km/hper raggiungere il secondo ciclista, dove x la distanza aggiuntiva tra i due, che aumenta al ritmo di 10 Km/h.\n\nIn formule:\ny = 50 + x (distanza)\n(50 + x)/16 = x/10 (tempo)</string>
+    <string name="A76">Sì, lo è.</string>
+    <string name="A77">99.\n\nE\' la cinquantesima sia dall\'alto che dal basso: significa che ci sono 49 studenti meglio e 49 peggio di lei.\n49(migliori) + 49(peggiori) + 1(Susanna) = 99</string>
+    <string name="A78">120.\n\nLa proporzione rimane invariata: metà uomini (5 invece di 10) compiono metà del lavoro (60 alberi invece di 120).\nSignifica che occorre esattamente lo stesso tempo.</string>
+    <string name="A79">10.\n\n800/10 = 80\n80/4=20\n20/2=10\n</string>
+    <string name="A80">2 mele.</string>
+    <string name="A81">Come te.\nGuidi tu, ricordi?</string>
+    <string name="A82">23.\n\n23-1 = 22.\n22/2 = 11.\n11-1 = 10.\n10/2 = 5</string>
+    <string name="A83">Razzo.</string>
+    <string name="A84">No: è illegale seppellire un uomo che ancora vive.</string>
+    <string name="A85">CANGURO\n\nGli altri camminano a quattro zampe.</string>
+    <string name="A86">6 viaggi.\n\n5 per portare le cassette, più il viaggio iniziale da casa al negozio.</string>
+    <string name="A87">48.\n\nLa serie è: per 2, più 3, per 2, più 3, etc.</string>
+    <string name="A88">La notte.</string>
+    <string name="A89">URA.\n\nGli altri gruppi di tre lettere sono la parte finale di nomi di pianeti, mentre URA è la parte iniziale di Urano.\n(SatRNO MaRTE TeRRA GiOVE e VenERE).</string>
+    <string name="A90">Onde.\n\nL\'effetto Hawthorne descrive il comportamento delle persone quando si sentono osservate, l\'effetto Doppler invece tratta le onde.</string>
+    <string name="A91">11.\n\nOgni mese tranne Febbraio ha 30 giorni. Alcuni mesi poi ne hanno anche uno in più, per un totale di 31.</string>
+    <string name="A92">L\'uomo è un nano.\nQuando esce raggiunge senza problemi il tasto TERRA dell\'ascensore, ma quando rientra a casa arriva a premere solo il tasto 16, perchè il 20 è troppo in alto.</string>
+    <string name="A93">Prima riempiamo il secchio da 3 litri e vuotiamo il contenuto in quello da 5.\n\nPoi riempiamo di nuovo il secchio da 3 litri e riempiamo fino all\'orlo quello da 5, così che in quello più piccolo resti un solo litro.\n\nOra vuotiamo il recipiente da 5 litri e versiamoci il singolo litro rimasto in quello da 3.\n\nInfine, riempiamo il secchio da 3 litri e sommiamo il contenuto al litro già presente nel secchio più grande.</string>
+    <string name="A94">38272416.\n\nABC rappresentano i numeri 1, 2 e 3: moltiplicandoli tra loro otteniamo 6.\nFGH rappresentano 6, 7 e 8: moltiplicandoli otteniamo: 336.\nCCFCCGCCH rappresentano 336, 337 e 338: moltiplicandoli otteniamo 38272416.</string>
+    <string name="A95">25 percento.</string>
+    <string name="A96">72 cm.\n\nTesta: 9 cm\nCoda: 27 cm\nCorpo: 36 cm</string>
+    <string name="A97">12.\n\nPer trovare la soluzione, si utilizza l\'equazione seguente:\n\n28 = 3/7*(28) + 4/7*(28)\n\ndove il numero di parti di cemento necessarie è (3/7)*28</string>
+    <string name="A98">40 litri.\n\nL\'equazione risolutiva è:\n\nV1 * concentrazione 1 + V2 * concentrazione 2 = Vtotale * concentrazione finale.</string>
+    <string name="A99">17 caramelle.\n\nMary distribuisce le caramelle seguendo la serie dei numeri primi: 1, 2, 3, 5, 7, 11, 13, 17.</string>
+    <string name="A100">Il messaggio dice:\n\'Attacchiamo domani\'\n\nE\' stato infatti codificato con il cifrario di Cesare (altrimenti noto come shifting cipher): ogni lettera è stata sostituita con quella 14 posti più in là nell\'alfabeto.\nA è stata sostituita con O, B con P, C con Q etc.</string>
+    <string name="A101">15 ore.\n\nQuando Michele si sveglia infatti, sono le 9 di sera: due ore dopo sarebbero le 11 e mancherebbe un\'ora a mezzanotte, mentre un\'ora più tardi sarebbero le 10 di sera e mancherebbero due ore a mezzanotte.\nMichele ha dormito dalle 6 del mattino, dunque per la bellezza di 15 ore!</string>
+    <string name="A102">Mio figlio</string> 
+    <string name="A103">Non lo raggiungerà mai.\n\nSe la marea innalza il livello dell\'acqua infatti, anche la barca salirà poichè vi galleggia sopra.\nL\'acqua raggiungerà perciò sempre e solo il primo scalino.</string>
+    <string name="A104">Le proporzioni del mix nei due bicchieri sono identiche.</string>
+    <string name="A105">Potresti metterla sulla testa di uno dei presenti.</string>
+    <string name="A106">Ha detto: \'Sarò impiccato!\'</string>
+    <string name="A107">Una bara</string>
+    <string name="A108">Scegliendo l\'ordine giusto, si può trovare la risposta con un massimo di 14 lanci.\n\nEcco come fare:\n\nPer prima cosa, lascia cadere la prima palla dal 14° piano.\nSe si rompe userai l\'altra palla per determinare l\'esatto punto di rottura con un massimo di 13 lanci partendo dal primo piano e salendo di un piano alla volta.\n\nSe la prima palla non si rompe cadendo dal 14° piano, allora lasciala cadere dal 27°(14+13).\nSe si rompe, potrai determinare il punto esatto di rottura con un massimo di altri 12 lanci.\n\nRipeti questo procedimento, sempre salendo di un numero di piani inferiore di uno al piano dell\'ultimo lancio, finchè la prima palla si rompe.\nSe si rompe all\'X-esimolancio, ti occorreranno ancora 14-x lanci della seconda palla per determinare l\'esatto punto di rottura.\n\nAll\'undicesimo lancio della prima palla, se arriva tanto in alto, avrai raggiunto il 99° piano.</string>
+    <string name="A109">Posiziona su ON due interruttori.\nAspetta un poco, poi sposta uno di essi su OFF.\n\nOra sali rapidamente le scale: Una lampadina sarà accesa (interruttore su ON), una spenta (interruttore su OFF), e una spenta ma ancora calda.</string>
+    <string name="A110">Il detective ha notato che la finestra è stata rotta dall\'interno: i pezzi di vetro sono infatti caduti in giardino invece che nella stanza.</string>
+    <string name="A111">Gli si racconta una barzelletta di mercoledì.</string>
+    <string name="A112">Ci sono diverse risposte possibili, ma una delle migliori è senza dubbio questa: dai le chiavi dell\'auto al tuo amico e chiedigli di portare in ospedale l\'anziana signora, mentre tu rimani alla fermata ad aspettare l\'autobus con la donna/l\'uomo dei tuoi sogni.</string>
+    <string name="A113">La più frequente è 1 (ha un\'occorrenza più delle altre perchè 1000 è incluso).\n\nLa meno frequente è lo 0 (anche se ci sono tre zeri in 1000, 0 non ha le ripetizioni di 22, 33, 44, 222, 333 etc.)</string>
+    <string name="A114">La spada non avrebbe mai potuto avere incise le parole\'prima guerra mondiale\', poichè all\'epoca nessuno sapeva che ce ne sarebbe stata una seconda.</string>
+    <string name="A115">Lisa aveva 50 dollari e Megan 30.</string>
+    <string name="A116">100.\n\n(Partendo dal fondo, il conto risulta molto più semplice).</string>
+    <string name="A117">Ti costa meno portarne due.\n\nIn questo modo infatti acquisti un totale di 3 biglietti, mentre se porti lo stesso amico due volte ne acquisti in totale 4.</string>
+    <string name="A118">6.\n\nSi tratta del numero di lettere che compongono ogni numero.\n(Uno=3 lettere, Due=3 lettere etc.)\n\n(Ricorda un altro dei nostri enigmi vero? Lo avevate indovinato?)</string>
+    <string name="A119">Ce ne sono 20:\n9, 19, 29, 39, 49, 59, 69, 79, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98 e 99</string>
+    <string name="A120">Tre: una rosa, un tulipano e un giglio.</string>
+    <string name="A121">Il mercante scrisse \'il tuo peso esatto\' sul pezzo di carta.</string>
+    <string name="A122">Quando state schiena contro schiena.</string>
+    <string name="A123">Si: 47 + 53 + 59 + 61 = 220</string>
+    <string name="A124">Perchè nella popolazione mondiale ci sono più uomini cinesi che giapponesi.</string>
+    <string name="A125">Il pranzo e la cena.</string> 
+    <string name="A126">Taglia XII (12 in numeri romani) orizzontalmente in due.\nOtterrai un VII (7 in numeri romani) nella metà superiore.</string>
+    <string name="A127">L\'imbarcazione era un sottomarino.</string>
+    <string name="A128">Il vino.</string>
+    <string name="A129"></string>
+    <string name="A130"></string>
+    <string name="A131"></string>
+    <string name="A132"></string>
+    <string name="A133"></string>
+    <string name="A134"></string>
+    <string name="A135"></string>
+    <string name="A136"></string>
+    <string name="A137"></string>
+    <string name="A138"></string>
+    <string name="A139"></string>
+    <string name="A140"></string>
+    <string name="A141"></string>
+    <string name="A142"></string>
+    <string name="A143"></string>
+    <string name="A144"></string>
+    <string name="A145"></string>
+    <string name="A146"></string>
+    <string name="A147"></string>
+    <string name="A148"></string>
+    <string name="A149"></string>
+    <string name="A150"></string>
+    <string name="A151"></string>
+    <string name="A152"></string>
+    <string name="A153"></string>
+    <string name="A154"></string>
+    <string name="A155"></string>
+    <string name="A156"></string>
+    <string name="A157"></string>
+    <string name="A158"></string>
+    <string name="A159"></string>
+    <string name="A160"></string>
+
+</resources>

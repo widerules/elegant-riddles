@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="chaptersArray">
+        <item>1 | Il nuovo nido</item>
+        <item>2 | Il numero più grande</item>
+        <item>3 | La sala da ballo</item>
+        <item>4 | Risalendo il fiume</item>
+        <item>5 | Specie animali</item>
+        <item>6 | Un\'invasione di fiori</item>
+        <item>7 | Una fumatrice povera</item>
+        <item>8 | Al polo</item>
+        <item>9 | Sulla strada per St.Ives</item>
+        <item>10 | Il conducente d\'autobus</item>
+        <item>11 | Una volta in un minuto</item>
+        <item>12 | L\'ora della merenda</item>
+        <item>13 | La scatola chiusa</item>
+        <item>14 | La corsa</item>
+        <item>15 | Matematica complicata</item>
+        <item>16 | Le api e fiori</item>
+        <item>17 | I miei gatti</item>
+        <item>18 | Una famiglia numerosa</item>
+        <item>19 | Il re furbo</item>
+        <item>20 | Il numero misterioso</item>
+        <item>21 | Età diverse</item>
+        <item>22 | Semi quadrati</item>
+        <item>23 | Vero o falso</item>
+        <item>24 | Evaporazione</item>
+        <item>25 | Il quiz di Einstein</item>
+        <item>26 | Un povero e un ricco</item>
+        <item>27 | Un incubo spaventoso</item>
+        <item>28 | Un giorno di pioggia</item>
+        <item>29 | La spia russa</item>
+        <item>30 | Il ponte e l\'uccello</item>
+        <item>31 | Due marinai</item>
+        <item>32 | Acqua e pistole</item>
+        <item>33 | Per pochi centimetri</item>
+        <item>34 | La finestra rotta</item>
+        <item>35 | Secondi</item>
+        <item>36 | Bertha</item>
+        <item>37 | Gemelli differenti</item>
+        <item>38 | La fine</item>
+        <item>39 | 12 figli</item>
+        <item>40 | La mummia di Adamo</item>
+        <item>41 | Il nuovo numero</item>
+        <item>42 | Il bersaglio sull\'albero</item>
+        <item>43 | Due bastoncini</item>
+        <item>44 | Un dottore geniale</item>
+        <item>45 | La palla che ritorna</item>
+        <item>46 | Tre vestiti nuovi</item>
+        <item>47 | Attraversare il fiume</item>
+        <item>48 | Oggi e domani</item>
+        <item>49 | L\'asino affamato</item>
+        <item>50 | Una strana somma</item>
+        <item>51 | Tre mogli</item>
+        <item>52 | 10 frasi</item>
+        <item>53 | Paradosso apparente</item>
+        <item>54 | La gara</item>
+        <item>55 | 8 pesi e una bilancia</item>
+        <item>56 | Quarto compleanno</item>
+        <item>57 | Fratelli e sorelle</item>
+        <item>58 | Il monte Everest</item>
+        <item>59 | Uno strano SMS</item>
+        <item>60 | Scacco matto</item>
+        <item>61 | Serie numerica</item>
+        <item>62 | Direzioni opposte</item>
+        <item>63 | Una famiglia di asini</item>
+        <item>64 | Mucche e galline</item>
+        <item>65 | Vestirsi al buio</item>
+        <item>66 | Un numero speciale</item>
+        <item>67 | Camion veloce e camion lento</item>
+        <item>68 | La passeggiata</item>
+        <item>69 | La piscina</item>
+        <item>70 | Un palazzo di dieci piani</item>
+        <item>71 | Tempo rimanente</item>
+        <item>72 | Il colore del mio asino</item>
+        <item>73 | Una signora ed un signore</item>
+        <item>74 | Banane e scimmie</item>
+        <item>75 | La mosca ed i ciclisti</item>
+        <item>76 | Zips, Zoodles e Zonkers</item>
+        <item>77 | Cinquantesimo posto</item>
+        <item>78 | Alberi</item>
+        <item>79 | Matematica discorsiva</item>
+        <item>80 | Mele</item>
+        <item>81 | Il bus</item>
+        <item>82 | I biscotti di Maria</item>
+        <item>83 | Messaggio alieno</item>
+        <item>84 | La sepoltura</item>
+        <item>85 | Differenze</item>
+        <item>86 | Scatole di pesche</item>
+        <item>87 | L\'intruso</item>
+        <item>88 | Cade, ma non si rompe</item>
+        <item>89 | Fuori posto</item>
+        <item>90 | Analogie</item>
+        <item>91 | Giorni</item>
+        <item>92 | Ascensore</item>
+        <item>93 | Due secchi</item>
+        <item>94 | Una strana catena</item>
+        <item>95 | Saldi!</item>
+        <item>96 | Un insolito pesce</item>
+        <item>97 | Cemento e sabbia</item>
+        <item>98 | Problema al laboratorio</item>
+        <item>99 | Passione per le caramelle</item>
+        <item>100 | Messaggio nemico</item>
+        <item>101 | Una bella festa</item>
+        <item>102 | Un uomo</item>
+        <item>103 | La barca e la scala di corda</item>
+        <item>104 | Il mix</item>
+        <item>105 | Tutti meno uno</item>
+        <item>106 | Povero ma sveglio!</item>
+        <item>107 | Cos\'è?</item>
+        <item>108 | (Non) rompere le palle</item>
+        <item>109 | Gli interruttori</item>
+        <item>110 | Il ladro di diamanti</item>
+        <item>111 | Come si fa?</item>
+        <item>112 | Un dilemma morale</item>
+        <item>113 | La cifra più frequente</item>
+        <item>114 | Racconti di guerra</item>
+        <item>115 | Lisa e Megan</item>
+        <item>116 | Frazioni</item>
+        <item>117 | Tutti al cinema!</item>
+        <item>118 | Completa la sequenza</item>
+        <item>119 | Quanti 9?</item>
+        <item>120 | Un mazzo di fiori</item>
+        <item>121 | Il mercante furbo</item>
+        <item>122 | Uno dietro l\'altro</item>
+        <item>123 | Quattro numeri primi</item>
+        <item>124 | Mangiatori di riso</item>
+        <item>125 | Due cose immangiabili</item>
+        <item>126 | Una strana divisione</item>
+        <item>127 | Mistero in porto</item>
+        <item>128 | Le tre età</item>
+        <item>129 | Le case colorate</item>
+        <item>130 | </item>
+        <item>131 | </item>
+        <item>132 | </item>
+        <item>133 | </item>
+        <item>134 | </item>
+        <item>135 | </item>
+        <item>136 | </item>
+        <item>137 | </item>
+        <item>138 | </item>
+        <item>139 | </item>
+        <item>140 | </item>
+        <item>141 | </item>
+        <item>142 | </item>
+        <item>143 | </item>
+        <item>144 | </item>
+        <item>145 | </item>
+        <item>146 | </item>
+        <item>147 | </item>
+        <item>148 | </item>
+        <item>149 | </item>
+        <item>150 | </item>
+        <item>151 | </item>
+        <item>152 | </item>
+        <item>153 | </item>
+        <item>154 | </item>
+        <item>155 | </item>
+        <item>156 | </item>
+        <item>157 | </item>
+        <item>158 | </item>
+        <item>159 | </item>
+        <item>160 | </item>
+    </string-array>
+
+</resources>
