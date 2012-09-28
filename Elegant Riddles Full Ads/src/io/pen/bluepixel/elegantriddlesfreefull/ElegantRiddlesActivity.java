@@ -36,7 +36,7 @@ public class ElegantRiddlesActivity extends Activity implements OnGestureListene
     private static final int SWIPE_THRESHOLD_VELOCITY=200;
 
     public static final String PREFS_NAME="EEPrefsFile";
-    public static final String MARKET_URL_FTW="market://details?id=pack.findthewords";
+    public static final String MARKET_URL_FTW="market://search?q=pub:BluePixel";
 
     private int menuPosition=1;
     private TextSwitcher mSwitcher;

@@ -38,7 +38,10 @@ public class Riddle extends Activity {
 	R.string.T107, R.string.T108, R.string.T109, R.string.T110, R.string.T111, R.string.T112, R.string.T113,
 	R.string.T114, R.string.T115, R.string.T116, R.string.T117, R.string.T118, R.string.T119, R.string.T120,
 	R.string.T121, R.string.T122, R.string.T123, R.string.T124, R.string.T125, R.string.T126, R.string.T127,
-	R.string.T128 };
+	R.string.T128, R.string.T129, R.string.T130, R.string.T131, R.string.T132, R.string.T133, R.string.T134,
+	R.string.T135, R.string.T136, R.string.T137, R.string.T138, R.string.T139, R.string.T140, R.string.T141,
+	R.string.T142, R.string.T143, R.string.T144, R.string.T145, R.string.T146, R.string.T147, R.string.T148,
+	R.string.T149, R.string.T150 };
     private static final int[] LOOKUP_QUESTIONS=new int[]{R.string.Q01, R.string.Q02, R.string.Q03, R.string.Q04,
 	R.string.Q05, R.string.Q06, R.string.Q07, R.string.Q08, R.string.Q09, R.string.Q10, R.string.Q11, R.string.Q12,
 	R.string.Q13, R.string.Q14, R.string.Q15, R.string.Q16, R.string.Q17, R.string.Q18, R.string.Q19, R.string.Q20,
@@ -56,7 +59,10 @@ public class Riddle extends Activity {
 	R.string.Q107, R.string.Q108, R.string.Q109, R.string.Q110, R.string.Q111, R.string.Q112, R.string.Q113,
 	R.string.Q114, R.string.Q115, R.string.Q116, R.string.Q117, R.string.Q118, R.string.Q119, R.string.Q120,
 	R.string.Q121, R.string.Q122, R.string.Q123, R.string.Q124, R.string.Q125, R.string.Q126, R.string.Q127,
-	R.string.Q128 };
+	R.string.Q128, R.string.Q129, R.string.Q130, R.string.Q131, R.string.Q132, R.string.Q133, R.string.Q134,
+	R.string.Q135, R.string.Q136, R.string.Q137, R.string.Q138, R.string.Q139, R.string.Q140, R.string.Q141,
+	R.string.Q142, R.string.Q143, R.string.Q144, R.string.Q145, R.string.Q146, R.string.Q147, R.string.Q148,
+	R.string.Q149, R.string.Q150 };
     public static final int[] LOOKUP_ANSWERS=new int[]{R.string.A01, R.string.A02, R.string.A03, R.string.A04,
 	R.string.A05, R.string.A06, R.string.A07, R.string.A08, R.string.A09, R.string.A10, R.string.A11, R.string.A12,
 	R.string.A13, R.string.A14, R.string.A15, R.string.A16, R.string.A17, R.string.A18, R.string.A19, R.string.A20,
@@ -74,7 +80,10 @@ public class Riddle extends Activity {
 	R.string.A107, R.string.A108, R.string.A109, R.string.A110, R.string.A111, R.string.A112, R.string.A113,
 	R.string.A114, R.string.A115, R.string.A116, R.string.A117, R.string.A118, R.string.A119, R.string.A120,
 	R.string.A121, R.string.A122, R.string.A123, R.string.A124, R.string.A125, R.string.A126, R.string.A127,
-	R.string.A128 };
+	R.string.A128, R.string.A129, R.string.A130, R.string.A131, R.string.A132, R.string.A133, R.string.A134,
+	R.string.A135, R.string.A136, R.string.A137, R.string.A138, R.string.A139, R.string.A140, R.string.A141,
+	R.string.A142, R.string.A143, R.string.A144, R.string.A145, R.string.A146, R.string.A147, R.string.A148,
+	R.string.A149, R.string.A150 };
 
     private static final int[] LOOKUP_PIC=new int[]{R.drawable.picture01, R.drawable.picture02, R.drawable.picture03,
 	R.drawable.picture04, R.drawable.picture05, R.drawable.picture06, R.drawable.picture07, R.drawable.picture08,
@@ -101,7 +110,12 @@ public class Riddle extends Activity {
 	R.drawable.picture27, R.drawable.picture92, R.drawable.picture74, R.drawable.picture28, R.drawable.picture15,
 	R.drawable.picture31, R.drawable.picture55, R.drawable.picture15, R.drawable.picture18, R.drawable.picture23,
 	R.drawable.picture25, R.drawable.picture06, R.drawable.picture82, R.drawable.picture53, R.drawable.picture32,
-	R.drawable.picture82, R.drawable.picture12, R.drawable.picture02, R.drawable.picture04, R.drawable.picture40 };
+	R.drawable.picture82, R.drawable.picture12, R.drawable.picture02, R.drawable.picture04, R.drawable.picture40,
+	R.drawable.picture34, R.drawable.picture02, R.drawable.picture11, R.drawable.picture32, R.drawable.picture28,
+	R.drawable.picture26, R.drawable.picture15, R.drawable.picture13, R.drawable.picture23, R.drawable.picture11,
+	R.drawable.picture01, R.drawable.picture45, R.drawable.picture37, R.drawable.picture20, R.drawable.picture27,
+	R.drawable.picture17, R.drawable.picture45, R.drawable.picture58, R.drawable.picture92, R.drawable.picture10,
+	R.drawable.picture05, R.drawable.picture12 };
 
     private LinearLayout ll;
     private int lvl=0;
