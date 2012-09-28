@@ -3,7 +3,7 @@
 
     <!-- ANSWERS -->
     <string name="A01">The female will have 44 sticks, the male 66.</string>
-    <string name="A02">387420489\n(9^9)\n\n[Alternative solution: 9/0=infinite\n(Thanks to Don Claudio)]</string>
+    <string name="A02">387420489\n(9^9)\n\n[Alternate solution:\n\n9/0=infinite (submitted by Don Claudio)\n\n9!*9! = 131,681,894,400 (submitted by Luca Dellapiazza)]</string>
     <string name="A03">He should have said "Three": the answer is the number of letters forming the word.\n("twelve" = 6 letters; "six" = 3 letters)</string>
     <string name="A04">28.\nThe morning of the 28th day the will be 27Km from the start: during the day they will reach their destination and will no longer be taken back by the current during the night.</string>
     <string name="A05">0: Moses didn\'t have an Ark.</string>
@@ -130,37 +130,27 @@
     <string name="A126">Cut XII into two halves horizontally.\nYou get VII on the top half.</string>
     <string name="A127">The ship was a submarine.</string>
     <string name="A128">Wine.</string>
-    <string name="A129"></string>
-    <string name="A130"></string>
-    <string name="A131"></string>
-    <string name="A132"></string>
-    <string name="A133"></string>
-    <string name="A134"></string>
-    <string name="A135"></string>
-    <string name="A136"></string>
-    <string name="A137"></string>
-    <string name="A138"></string>
-    <string name="A139"></string>
-    <string name="A140"></string>
-    <string name="A141"></string>
-    <string name="A142"></string>
-    <string name="A143"></string>
-    <string name="A144"></string>
-    <string name="A145"></string>
-    <string name="A146"></string>
-    <string name="A147"></string>
-    <string name="A148"></string>
-    <string name="A149"></string>
-    <string name="A150"></string>
-    <string name="A151"></string>
-    <string name="A152"></string>
-    <string name="A153"></string>
-    <string name="A154"></string>
-    <string name="A155"></string>
-    <string name="A156"></string>
-    <string name="A157"></string>
-    <string name="A158"></string>
-    <string name="A159"></string>
-    <string name="A160"></string>
+    <string name="A129">A watermelon.</string>
+    <string name="A130">2^6 - 63 = 1\n\n(2^6 = 2x2x2x2x2x2 = 64\n64 - 63 = 1)</string>
+    <string name="A131">By setting the snooze time to 9 minutes, the alarm clock only needs to watch the last digit of the time.\n\nSo, if you hit snooze at 6.45, the alarm goes off again when the last digit equals 4.\nIf they made it 10 minutes, the alarm would go off right away, or it would take more circuitry.</string>
+    <string name="A132">He fired the gun near a snowy cliff, which started an avalanche.\n\n[Alternate solution:\n\nHe shot an elephant (or a tiger, or an lion... and so on) with a low caliber rifle, not powerful enough to kill it.\nThe elephant became enraged and trampled him.]</string>
+    <string name="A133">The man was a poor peasant who desperately wanted to emigrate and search for fortune.\nLacking money for airfare, he stows away in the landing gear compartment of a jet.\nHe died of hypothermia in mid-flight and fell out when the compartment opened as the plane prepared for landing.</string>
+    <string name="A134">They chase parked cars!</string>
+    <string name="A135">888 +\n88 +\n8 +\n8 +\8 =\n1,000</string>
+    <string name="A136">11 cartons in total.\n\n7 large boxes (7 * 8 = 56 boxes) and 4 small boxes (4 * 10 = 40 boxes).\n A total of 11 cartons and 96 boxes were sent.</string>
+    <string name="A137">The wiseman told them to switch camels.</string>
+    <string name="A138">45 seconds.\n\nThe clock goes 4 minutes forward every 24 hours: it means one minute every 6 hours.\nThis means that every hour it goes 10 seconds forward, and then in 4 hours will be 40 seconds ahead.\nAdding 30 minutes (from 7.30 am to 12 am it takes in fact four hours and a half) the clock will go forward for a further 5 seconds, for a total of 45.</string>
+    <string name="A139">Only the one that has been shot: all the other birds fly away for the noise.</string>
+    <string name="A140">2Kg.\n\nThe solution is found with the equation:\nx = (1 + x/2), where x is the weight of a ball.</string>
+    <string name="A141">Mark has 5 cows, Frank 7.</string>
+    <string name="A142">1)arre\n2)thas\n3)The phrase has only 2 mistakes (if we ignore the paradox)</string>
+    <string name="A143">The key</string>
+    <string name="A144">Always 5 minutes: the proportion remains exactly the same.</string>
+    <string name="A145">55 red\n47 green\n52 white</string>
+    <string name="A146">30 km/h.\n\nProceeding downhill at a speed three times faster than the speed going uphill, our athlete pedaled at the speed of 20 km/h for a period three times greater than the period he pedaled at the speed of 60 km/h.\nThe correct answer is therefore given by (3*20 + 60)/4 = 30 km/h.</string>
+    <string name="A147">You can climb to the Moon, and to tell the truth even a little further. In fact, at every bending of the sheet, thickness doubles: after 42 times, the total thickness is 2^42 times the initial thickness, which is around 440000 km.</string>
+    <string name="A148">200 trucks per hour.\n\nThe driver is traveling at a relative speed of 40 km/h with respect to the trucks. So in half an hour, he covers 20 km, (relative to the truck).\nThis means that in a 20 km long stretch of road, there are 50 trucks: each truck is distant from the next one 400 m (20km/50).\nThis means that between the passage of a truck and the next one, 18 seconds pass (0.400/80=0.005 hours)\n\nIn one hour will therefore pass 200 (3600/18) trucks.</string>
+    <string name="A149">Only one ring, namely the third.\n\nIn this way one can use: a single ring (precisely the third), a chain with two rings (the first and the second) and one with four rings (the fourth to seventh).\n\nWith these three pieces it is possible to form any combination of numbers from one to seven.</string>
+    <string name="A150">10 people.\n\nA person shakes hands with everyone except himself.\nThe next one will not have to shake hands with himself and with the first person (because it already did) and so on.\n\nThe last friend should not shake hands with anyone (because everyone already has), then we can reason backwards:\n0+1==> 2 people, 1 handshakes\n0+1+2==> 3 people, 3 handshakes\n[...]\n0+1+2+3+4+5+6+7+8+9==> 10 people, 45 handshakes.</string>
 
 </resources>

@@ -1,6 +1,10 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android" >
 
     <item
+        android:id="@+id/opt_back"
+        android:icon="@android:drawable/ic_menu_revert"
+        android:title="@string/opt_back_text"/>
+    <item
         android:id="@+id/opt_buy"
         android:icon="@android:drawable/ic_menu_add"
         android:title="@string/opt_buy_text"/>
@@ -8,9 +12,5 @@
         android:id="@+id/opt_solution"
         android:icon="@android:drawable/ic_menu_mylocation"
         android:title="@string/opt_sol_text"/>
-    <item
-        android:id="@+id/opt_back"
-        android:icon="@android:drawable/ic_menu_directions"
-        android:title="@string/opt_back_text"/>
 
 </menu>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <!-- ANSWERS --> 
+    <!-- ANSWERS -->
     <string name="A01">La femmina avrà 44 bastoncini, il maschio 66.</string>
-    <string name="A02">387420489\n(9 elevato alla 9)\n\n[Soluzione alternativa: 9/0=infinito\n(Suggerita da Don Claudio)]</string>
+    <string name="A02">387420489\n(9 elevato alla 9)\n\n[Soluzioni alternative:\n\n9/0=infinito (Suggerita da Don Claudio)\n\n9!*9! = 131,681,894,400 (Suggerita da Luca Dellapiazza)]</string>
     <string name="A03">Avrebbe dovuto dire "Sei": la risposta corretta è il numero di lettere che formano il numero.\n("dodici" = 6 lettere; "sei" = 3 lettere)</string>
     <string name="A04">28.\nLa mattina del ventottesimo giorno si troveranno infatti a 27 Km dal punto di partenza: durante il giorno copriranno i 3 Km rimanenti ed arriveranno a destinazione, dunque la corrente non li riporterà più indietro durante la notte.</string>
     <string name="A05">0.\n\nMosè non aveva un\'Arca.</string>
@@ -103,10 +103,10 @@
     <string name="A99">17 caramelle.\n\nMary distribuisce le caramelle seguendo la serie dei numeri primi: 1, 2, 3, 5, 7, 11, 13, 17.</string>
     <string name="A100">Il messaggio dice:\n\'Attacchiamo domani\'\n\nE\' stato infatti codificato con il cifrario di Cesare (altrimenti noto come shifting cipher): ogni lettera è stata sostituita con quella 14 posti più in là nell\'alfabeto.\nA è stata sostituita con O, B con P, C con Q etc.</string>
     <string name="A101">15 ore.\n\nQuando Michele si sveglia infatti, sono le 9 di sera: due ore dopo sarebbero le 11 e mancherebbe un\'ora a mezzanotte, mentre un\'ora più tardi sarebbero le 10 di sera e mancherebbero due ore a mezzanotte.\nMichele ha dormito dalle 6 del mattino, dunque per la bellezza di 15 ore!</string>
-    <string name="A102">Mio figlio</string> 
+    <string name="A102">Mio figlio</string>
     <string name="A103">Non lo raggiungerà mai.\n\nSe la marea innalza il livello dell\'acqua infatti, anche la barca salirà poichè vi galleggia sopra.\nL\'acqua raggiungerà perciò sempre e solo il primo scalino.</string>
     <string name="A104">Le proporzioni del mix nei due bicchieri sono identiche.</string>
-    <string name="A105">Potresti metterla sulla testa di uno dei presenti.</string>
+    <string name="A105">Potresti metterla sulla testa di uno dei presenti.\n\n[Nota:\nPotrebbe essere anche sulla mia testa, poichè comunque tutti i presenti meno uno (io) potrebbero vederla (Suggerita da Luca Dellapiazza)]</string>
     <string name="A106">Ha detto: \'Sarò impiccato!\'</string>
     <string name="A107">Una bara</string>
     <string name="A108">Scegliendo l\'ordine giusto, si può trovare la risposta con un massimo di 14 lanci.\n\nEcco come fare:\n\nPer prima cosa, lascia cadere la prima palla dal 14° piano.\nSe si rompe userai l\'altra palla per determinare l\'esatto punto di rottura con un massimo di 13 lanci partendo dal primo piano e salendo di un piano alla volta.\n\nSe la prima palla non si rompe cadendo dal 14° piano, allora lasciala cadere dal 27°(14+13).\nSe si rompe, potrai determinare il punto esatto di rottura con un massimo di altri 12 lanci.\n\nRipeti questo procedimento, sempre salendo di un numero di piani inferiore di uno al piano dell\'ultimo lancio, finchè la prima palla si rompe.\nSe si rompe all\'X-esimolancio, ti occorreranno ancora 14-x lanci della seconda palla per determinare l\'esatto punto di rottura.\n\nAll\'undicesimo lancio della prima palla, se arriva tanto in alto, avrai raggiunto il 99° piano.</string>
@@ -126,41 +126,31 @@
     <string name="A122">Quando state schiena contro schiena.</string>
     <string name="A123">Si: 47 + 53 + 59 + 61 = 220</string>
     <string name="A124">Perchè nella popolazione mondiale ci sono più uomini cinesi che giapponesi.</string>
-    <string name="A125">Il pranzo e la cena.</string> 
+    <string name="A125">Il pranzo e la cena.</string>
     <string name="A126">Taglia XII (12 in numeri romani) orizzontalmente in due.\nOtterrai un VII (7 in numeri romani) nella metà superiore.</string>
     <string name="A127">L\'imbarcazione era un sottomarino.</string>
     <string name="A128">Il vino.</string>
-    <string name="A129"></string>
-    <string name="A130"></string>
-    <string name="A131"></string>
-    <string name="A132"></string>
-    <string name="A133"></string>
-    <string name="A134"></string>
-    <string name="A135"></string>
-    <string name="A136"></string>
-    <string name="A137"></string>
-    <string name="A138"></string>
-    <string name="A139"></string>
-    <string name="A140"></string>
-    <string name="A141"></string>
-    <string name="A142"></string>
-    <string name="A143"></string>
-    <string name="A144"></string>
-    <string name="A145"></string>
-    <string name="A146"></string>
-    <string name="A147"></string>
-    <string name="A148"></string>
-    <string name="A149"></string>
-    <string name="A150"></string>
-    <string name="A151"></string>
-    <string name="A152"></string>
-    <string name="A153"></string>
-    <string name="A154"></string>
-    <string name="A155"></string>
-    <string name="A156"></string>
-    <string name="A157"></string>
-    <string name="A158"></string>
-    <string name="A159"></string>
-    <string name="A160"></string>
+    <string name="A129">Di un\'anguria.</string>
+    <string name="A130">2^6 - 63 = 1\n\n(2^6 = 2x2x2x2x2x2 = 64\n64 - 63 = 1)</string>
+    <string name="A131">Impostando il controllo su 9 minuti, la sveglia deve controllare solo il valore dell\'ultima cifra.\n\nSe si pospone l\'allarme alle 6.45 ad esempio, la sveglia dovrà suonare nuovamente quando l\'ultima cifra sarà l\'attuale meno uno, cioè 4.\nSe il valore preimpostato fosse di 10 minuti invece, la sveglia dovrebbe implementare un circuito di controllo più complesso, altrimenti, confrontando la medesima cifra, suonerebbe di nuovo immediatamente.</string>
+    <string name="A132">Ha fatto fuoco nei pressi di una montagna innevata, scatenando una valanga.\n\n[Soluzione alternativa:\n\nHa sparato ad un elefante (o un leone, o una togre e così via) con un calibro troppo poco potente. L\'animale non è morto e lo ha attaccato per difendersi.]</string>
+    <string name="A133">L\'uomo era un povero contadino che desiderava disperatamente emigrare in cerca di fortuna.\nNon disponendo dei soldi necessaria ad acquistare il biglietto aereo, si era nascosto nel compartimento delle ruote.\n\nDurante il volo morì di ipotermia e al momento dell\'atterraggio, quando il vano delle ruote si è aperto, il suo corpo è precipitato al suolo.</string>
+    <string name="A134">Inseguono le auto parcheggiate</string>
+    <string name="A135">888 +\n88 +\n8 +\n8 +\8 =\n1000</string>
+    <string name="A136">11 cartoni in totale.\n\n7 scatole gradi (7 * 8 = 56) e 4 scatole piccole (4 * 10 = 40).\n E\' stato quindi spedito un totale di 11 cartoni, contenenti 96 scatole.</string>
+    <string name="A137">Il saggio suggerì loro di scambiarsi i cammelli.</string>
+    <string name="A138">45 secondi.\n\nL\'orologio va avanti 4 minuti in 24 ore, dunque un minuto ogni 6 ore.\nQuesto significa che ogni ora va avanti 10 secondi, e dunque in 4 ore sarà avanti di 40 secondi.\nAggiungendo 30 minuti (dalle 7.30 alle 12 trascorrono infatti 4 ore e mezzo)l\'orologio andrà avanti di ulteriori 5 secondi, per un totale di 45.</string>
+    <string name="A139">Solo quello colpito: gli altri scappano per lo sparo.</string>
+    <string name="A140">2Kg.\n\nLa soluzione si trova risolvendo l\'equazione:\nx = (1 + x/2), dove x è il peso di una palla.</string>
+    <string name="A141">Mario ha 5 mucche, Franco 7.</string>
+    <string name="A142">1)Erreri\n2)Questo\n3)La frase contiene solo 2 errori (ignorando il paradosso)</string>
+    <string name="A143">La chiave</string>
+    <string name="A144">Sempre 5 minuti, poichè la proporzione di gatti e topi non cambia.</string>
+    <string name="A145">Ci sono 55 palle rosse\n(47 verdi e 52 bianche)</string>
+    <string name="A146">30 Km/h.\n\nProcedendo in discesa ad una velocità tripla rispetto a quella tenuta in salita, il nostro atleta ha pedalato per un tempo triplo alla velocità di 20 km/h rispetto al tempo in cui è andato a 60 km/h.\nLa risposta corretta è dunque data da (3*20 + 60)/4 = 30 km/h.</string>
+    <string name="A147">Potete arrivare fino alla Luna, e a dire la verità anche un po\' oltre.\nInfatti ad ogni piegamento lo spessore raddoppia: dopo 42 piegamenti, lo spessore totale sarà 2^42 volte lo spessore iniziale, che equivale a circa 440000 km.</string>
+    <string name="A148">200 camion ogni ora.\n\nL\'automobilista viaggia ad una velocità relativa rispetto ai camion di 40 km/h.\nPerciò in mezz\'ora percorre 20 km, sempre rispetto ai camion.\nQuesto significa che in un tratto di strada lungo 20 km ci sono 50 camion, e cioè che ogni camion dista dal successiva 400 m (20km/50).\n\nDunque tra il passaggio di un camion e l\'altro passano 18 secondi (0,400/80=0,005 ore), pertanto in un\'ora ne passano 200 (3600/18).</string>
+    <string name="A149">Un solo anello, precisamente il terzo.\n\nIn questo modo si ha infatti a disposizione un anello singolo (appunto il terzo), una catena con due anelli (il primo e il secondo) ed una con quattro anelli (dal quarto al settimo).\nCon questi tre pezzi è possibile formare ogni combinazione numerica da uno a sette.</string>
+    <string name="A150">10 persone.\n\nUn individuo stringe la mano a tutti tranne se stesso.\nIl successivo non dovrà stringerla a se stesso ed al primo (perchè l\'ha già fatto) e così via.\nL\'ultimo non dovrà stringerla a nessuno (perchè tutti già l\'hanno stretta a lui).\n\nQuindi possiamo ragionare a ritroso:\n0+1==> 2 persone, 1 strette di mano\n0+1+2==> 3 persone, 3 strette di mano\n[...]\n0+1+2+3+4+5+6+7+8+9==> 10 persone, 45 strette di mano.</string>
 
 </resources>
