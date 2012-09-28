@@ -10,7 +10,7 @@
     <string name="btn_hints_back">Torna indietro</string>
     <string name="tableOfContents">Scegli una sfida</string>
     <string name="credits_title">Info e Credits</string>
-    <string name="credits_text">Elegant Riddles è una collezione di 101 indovinelli e giochi d\'ingegno, presentati con stile ed eleganza.\n\nGli indovinelli non sono disposti per difficoltà crescente, dunque il livello e gli skill richiesti variano molto dall\'uno all\'altro.\nRicorda inoltre che per risolvere alcuni quesiti, potrebbero esserti utili un notes e una calcolatrice.\n\nTutte le immagini utilizzate provengono dall\'archivio \'The Commons\' di Flickr.</string>
+    <string name="credits_text">Elegant Riddles è una collezione di 150 indovinelli e giochi d\'ingegno, presentati con stile ed eleganza.\n\nGli indovinelli non sono disposti per difficoltà crescente, dunque il livello e gli skill richiesti variano molto dall\'uno all\'altro.\nRicorda inoltre che per risolvere alcuni quesiti, potrebbero esserti utili un notes e una calcolatrice.\n\nTutte le immagini utilizzate provengono dall\'archivio \'The Commons\' di Flickr.</string>
     <string name="credits_mail">Scrivici</string>
     <string name="credits_adfree_text">Questa versione del gioco è ad-supported.\nPer eliminare la pubblicità, acquista il gioco completo sul market.</string>
     <string name="credits_adfree">Compra adesso</string>
@@ -48,7 +48,7 @@
     <string name="random_sub">Accetta una sfida a caso</string>
     <string name="credits">Info</string>
     <string name="credits_sub">Scopri di più</string>
-    <string name="ftw">FTW</string>
-    <string name="ftw_sub">Un nuovo gioco gratis</string>
+    <string name="ftw">App</string>
+    <string name="ftw_sub">Scopri nuove app gratis</string>
 
 </resources>
